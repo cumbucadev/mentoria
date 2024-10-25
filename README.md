@@ -45,7 +45,7 @@ Certifique-se de ler esses arquivos com atenção antes de contribuir. Se tiver 
 
 ## ❤️ Quem já Contribuiu
 
-[![contributors](https://contrib.rocks/image?repo=cumbucadev/generic-template)](https://github.com/cumbucadev/generic-template/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=cumbucadev/mentorias)](https://github.com/cumbucadev/mentorias/graphs/contributors)
 
 [github-discussions-doc]: https://docs.github.com/pt/discussions
 [github-discussions]: https://github.com/cumbucadev/mentorias/discussions
