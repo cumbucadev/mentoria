@@ -12,9 +12,7 @@
   </picture>
 </div>
 
-# <nome-do-repositório>
-
-[English Version](/README_EN.md)
+# Mentorias
 
 ## 💬 Novos Funcionalidades e Reportar Bugs
 
@@ -50,6 +48,6 @@ Certifique-se de ler esses arquivos com atenção antes de contribuir. Se tiver 
 [![contributors](https://contrib.rocks/image?repo=cumbucadev/generic-template)](https://github.com/cumbucadev/generic-template/graphs/contributors)
 
 [github-discussions-doc]: https://docs.github.com/pt/discussions
-[github-discussions]: https://github.com/cumbucadev/<nome-do-repositório>/discussions
+[github-discussions]: https://github.com/cumbucadev/mentorias/discussions
 [github-issues-doc]: https://docs.github.com/pt/issues/tracking-your-work-with-issues/creating-an-issue
-[github-issues]: https://github.com/cumbucadev/<nome-do-repositório>/issues
+[github-issues]: https://github.com/cumbucadev/mentorias/issues
