@@ -51,8 +51,8 @@ ajuda conta!
 
 ## ❤️ Quem já Contribuiu
 
-<a href="https://github.com/cumbucadev/generic-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cumbucadev/generic-template" />
+<a href="https://github.com/cumbucadev/mentorias/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cumbucadev/mentorias" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
