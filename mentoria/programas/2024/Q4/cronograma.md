@@ -44,7 +44,7 @@
 ## Semanas 2/3/4/5: 18/11 - 15/12
 
 - Cronograma personalizado para cada dupla. Encontrar arquivo dentro da pasta com o nome da sua
-  dupla. Exemplo: <mentoria/programas/2024/Q4/maria_e_joão/cronograma_semana_2_a_5.md>
+  dupla. Exemplo: <mentoria/programas/2024/Q4/maria_e_joao/cronograma_semana_2_a_5.md>
 
 ## Semana 6: 16/12 - 21/12
 
