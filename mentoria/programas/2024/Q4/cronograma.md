@@ -20,28 +20,31 @@
 ### Atividades
 
 - Apresentação do Programa
+
   - **Data:** 11/11
-  - **Horário:** *a definir*
+  - **Horário:** _a definir_
   - **Local:** Google Meet
   - **Participantes:** Todas as pessoas envolvidas no programa de mentorias Q424 Cumbuca Dev
   - **Detalhes:** Nesta primeira reunião, vamos dar as boas-vindas a todas as pessoas participantes,
-  apresentar a metodologia e explicar a dinâmica da mentoria. Será uma oportunidade para tirar
-  dúvidas e alinhar expectativas. A reunião será gravada e disponibilizada.
+    apresentar a metodologia e explicar a dinâmica da mentoria. Será uma oportunidade para tirar
+    dúvidas e alinhar expectativas. A reunião será gravada e disponibilizada.
 
 - Primeira Reunião de Acompanhamento
-  - **Horário:** *a definir*
+
+  - **Horário:** _a definir_
   - **Local:** Google Meet
   - **Participantes:** Mentor e Mentee
   - **Detalhes:** <link_para_docs_de_reunião_de_acompanhamento>
 
 - Preparar Cronograma
   - **Participante:** Mentor
-  - **Detalhes:** Praparar cronograma para semanas de 2 a 5 levando em consideração objetivos
-  de Mentee. <link_para_instruções>
+  - **Detalhes:** Praparar cronograma para semanas de 2 a 5 levando em consideração objetivos de
+    Mentee. <link_para_instruções>
 
 ## Semanas 2/3/4/5: 18/11 - 15/12
 
-- Cronograma personalizado para cada dupla. Acessar em: <adicionar_instruções>
+- Cronograma personalizado para cada dupla. Encontrar arquivo dentro da pasta com o nome da sua
+  dupla. Exemplo: <mentoria/programas/2024/Q4/maria_e_joão/cronograma_semana_2_a_5.md>
 
 ## Semana 6: 16/12 - 21/12
 
@@ -52,13 +55,13 @@
 ### Atividades
 
 - Encerramento do Programa
-  - **Data:** *a definir*
-  - **Horário:** *a definir*
+  - **Data:** _a definir_
+  - **Horário:** _a definir_
   - **Local:** Google Meet
   - **Participantes:** Todas as pessoas envolvidas no programa de mentorias Q424 Cumbuca Dev
   - **Detalhes:** Durante o encerramento, vamos compartilhar nossas jornadas e trocar ideias sobre o
-   processo. Será uma oportunidade para conversar sobre possíveis próximos passos, refletir sobre o
-   que funcionou bem e identificar áreas que podem ser melhoradas.
+    processo. Será uma oportunidade para conversar sobre possíveis próximos passos, refletir sobre o
+    que funcionou bem e identificar áreas que podem ser melhoradas.
 
 ## Resumo Importante de Datas
 
