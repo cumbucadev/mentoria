@@ -16,5 +16,7 @@
 
 Boas vindas ao programa de Mentorias Q424 da Cumbucada Dev!
 
+- [Metodologia](/mentoria/metodologia/README.md)
 - [Cronograma](/mentoria/programas/2024/Q4/cronograma.md)
 - [FAQ](/mentoria/programas/2024/Q4/FAQ_Q424.md)
+- [Atividades para Pessoas Mentoras](/mentoria/programas/2024/Q4/para_pessoas_mentoras.md)

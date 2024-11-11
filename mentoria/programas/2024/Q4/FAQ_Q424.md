@@ -20,19 +20,19 @@ Olá! Esta FAQ foi criada para responder às principais dúvidas sobre nosso pro
 Queremos que todas as pessoas se sinta bem e acolhidas neste espaço! Se precisar de mais
 informações, não hesite em perguntar, estamos aqui para ajudar.
 
-* [Quando irá ocorrer?](#quando-irá-ocorrer)
-* [Até quando posso me inscrever?](#até-quando-posso-me-inscrever)
-* [Quanto custa?](#quanto-custa)
-* [Tenho interesse em receber mentoria. Como posso participar?](#tenho-interesse-em-receber-mentoria-como-posso-participar)
-* [Tenho interesse em mentorar. Como posso participar?](#tenho-interesse-em-mentorar-como-posso-participar)
-* [Quem pode receber mentorias?](#quem-pode-receber-mentorias)
-* [Quem pode mentorar?](#quem-pode-mentorar)
-* [Quem são as pessoas mentoras?](#quem-são-as-pessoas-mentoras)
-* [Qual a metodologia utilizada?](#qual-a-metodologia-utilizada)
-* [Vou receber um certificado?](#vou-receber-um-certificado)
-* [Quais assuntos serão abordados?](#quais-assuntos-serão-abordados)
-* [O que fazer se eu tiver uma experiência difícil ou não me sentir confortável com a pessoa que está me mentorando?](#o-que-fazer-se-eu-tiver-uma-experiência-difícil-ou-não-me-sentir-confortável-com-a-pessoa-que-está-me-mentorando)
-* [O que fazer se eu tiver uma experiência difícil ou não me sentir confortável com a pessoa que estou mentorando?](#o-que-fazer-se-eu-tiver-uma-experiência-difícil-ou-não-me-sentir-confortável-com-a-pessoa-que-estou-mentorando)
+- [Quando irá ocorrer?](#quando-irá-ocorrer)
+- [Até quando posso me inscrever?](#até-quando-posso-me-inscrever)
+- [Quanto custa?](#quanto-custa)
+- [Tenho interesse em receber mentoria. Como posso participar?](#tenho-interesse-em-receber-mentoria-como-posso-participar)
+- [Tenho interesse em mentorar. Como posso participar?](#tenho-interesse-em-mentorar-como-posso-participar)
+- [Quem pode receber mentorias?](#quem-pode-receber-mentorias)
+- [Quem pode mentorar?](#quem-pode-mentorar)
+- [Quem são as pessoas mentoras?](#quem-são-as-pessoas-mentoras)
+- [Qual a metodologia utilizada?](#qual-a-metodologia-utilizada)
+- [Vou receber um certificado?](#vou-receber-um-certificado)
+- [Quais assuntos serão abordados?](#quais-assuntos-serão-abordados)
+- [O que fazer se eu tiver uma experiência difícil ou não me sentir confortável com a pessoa que está me mentorando?](#o-que-fazer-se-eu-tiver-uma-experiência-difícil-ou-não-me-sentir-confortável-com-a-pessoa-que-está-me-mentorando)
+- [O que fazer se eu tiver uma experiência difícil ou não me sentir confortável com a pessoa que estou mentorando?](#o-que-fazer-se-eu-tiver-uma-experiência-difícil-ou-não-me-sentir-confortável-com-a-pessoa-que-estou-mentorando)
 
 ### Quando irá ocorrer?
 
@@ -52,8 +52,8 @@ Queremos muito que você tenha a chance de participar em breve!
 
 Nossa mentoria é **completamente gratuita**! Todo o trabalho é realizado por pessoas voluntárias,
 tanto na organização quanto na mentoria em si. Este programa foi feito pela comunidade e para a
-comunidade, com o objetivo de criar uma rede de apoio onde todes possam compartilhar conhecimento
-e crescer juntes.
+comunidade, com o objetivo de criar uma rede de apoio onde todes possam compartilhar conhecimento e
+crescer juntes.
 
 ### Tenho interesse em receber mentoria. Como posso participar?
 
@@ -64,10 +64,10 @@ programas estiverem aberto!
 
 ### Tenho interesse em mentorar. Como posso participar?
 
-Amamos ver o interesse de quem deseja contribuir mentorando! As inscrições para esta rodada já
-estão fechadas, mas se você tem experiência na área de tecnologia e deseja apoiar nossa comunidade,
-cadastre-se na nossa newsletter em [cumbuca.dev#assine](https://cumbuca.dev#assine). Vamos te
-avisar assim que novos programas estiverem abertos!
+Amamos ver o interesse de quem deseja contribuir mentorando! As inscrições para esta rodada já estão
+fechadas, mas se você tem experiência na área de tecnologia e deseja apoiar nossa comunidade,
+cadastre-se na nossa newsletter em [cumbuca.dev#assine](https://cumbuca.dev#assine). Vamos te avisar
+assim que novos programas estiverem abertos!
 
 ### Quem pode receber mentorias?
 
@@ -93,8 +93,13 @@ acreditam na força da comunidade e no poder do apoio mútuo.
 
 Nossa abordagem é personalizada e adaptativa! Sabemos que cada mentorande tem suas próprias
 necessidades e objetivos, então a mentoria será moldada para atender às metas de cada participante.
-Vamos trabalhar junto com você para garantir que o programa atenda ao que é mais importante para
-o seu desenvolvimento.
+
+Aqui você encontrará a descrição detelhada de toda a metodologia que será utilizada:
+
+> [Metodologia](/mentoria/metodologia/README.md)
+
+Vamos trabalhar junto com você para garantir que o programa atenda ao que é mais importante para o
+seu desenvolvimento.
 
 ### Vou receber um certificado?
 
