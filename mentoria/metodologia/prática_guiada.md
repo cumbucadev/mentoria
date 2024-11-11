@@ -191,4 +191,4 @@ resolver tudo em uma sessão, mas pode-se continuar em um próximo encontro.
 
 **Ações:**
 
-- [< Voltar para Prática Guiada >](/mentoria/metodologia/prática_guiada.md)
+- [< Voltar Curadoria](/mentoria/metodologia/curadoria.md)
