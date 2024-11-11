@@ -158,3 +158,4 @@ aprendizado mais prazerosa.
 **Ações:**
 
 - [< Voltar para Reuniões de Acompanhamento](/mentoria/metodologia/reuniões_de_acompanhamento.md)
+- [Avaçar para Prática Guiada >](/mentoria/metodologia/prática_guiada.md)
