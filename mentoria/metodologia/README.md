@@ -25,6 +25,8 @@ entender as necessidades da pessoa mentorada e definir os temas de aprendizado. 
 tem a ser estudado é abordado através de **teoria** e **prática**. Abaixo, estão os passos
 detalhados de cada etapa.
 
+![Screenshot do site curadoria.cumbuca.dev](/assets/Fluxo%20da%20Mentoria.png)
+
 ### 1. Reuniões de Acompanhamento
 
 **Objetivo**: Identificar as necessidades e definir o plano de aprendizado.
