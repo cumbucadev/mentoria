@@ -91,4 +91,4 @@ Vamos agora entender um pouco mais a fundo cada etapa:
 
 **Ações:**
 
-- [Ir para Reuniões de Acompanhamento >](/mentoria/metodologia/reuniões_de_acompanhamento.md)
+- [Avançar para Reuniões de Acompanhamento >](/mentoria/metodologia/reuniões_de_acompanhamento.md)

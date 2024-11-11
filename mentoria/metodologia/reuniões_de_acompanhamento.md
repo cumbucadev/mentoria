@@ -171,6 +171,9 @@ ambiente que favoreça o aprendizado e o desenvolvimento.
   compartilhando isso para que a pessoa não pense que você está se distraindo ou fazendo algo não
   relacionado durante a conversa.
 
+- Tente não levar de maneira tão formal a reunião. A informalidade ajuda a quebrar barreiras. Ser
+  muito formal pode criar uma distância entre vocês.
+
 ### Compartilhando Sobre você
 
 Vamos começar com você se apresentando, assim a pessoa consegue ficar mais relaxada e também acaba
@@ -238,6 +241,9 @@ Algumas outras perguntas que podem ser feitas para instigar a conversa:
 - _"O que você costuma fazer para relaxar depois de um dia estressante?"_
 
 - _"Há algo que você sempre quis aprender ou explorar, mas ainda não teve a oportunidade?"_
+
+- Preste atenção em pontos que vocês possam ter em comum. Pontos em comum auxiliam na identificação
+  e conexão.
 
 ### Compartilhando o Quê Você Procura no Programa de Mentorias
 
@@ -690,4 +696,4 @@ Aqui, iremos seguir os mesmos moldes do encerramento da primeira reunião:
 **Ações:**
 
 - [< Voltar para o Início](/mentoria/metodologia/README.md)
-- [Ir para Curadoria >](/mentoria/metodologia/curadoria.md)
+- [Avaçar para Curadoria >](/mentoria/metodologia/curadoria.md)
