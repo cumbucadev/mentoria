@@ -14,6 +14,27 @@
 
 # Curadoria
 
+Agora que já definimos os temas de estudo para as próximas etapas da mentoria, é hora de começar
+pela base teórica e construir uma estrutura sólida de conhecimento.
+
+- [Objetivo](#objetivo)
+- [Motivação](#motivação)
+- [Critérios para uma Curadoria Eficiente de Conteúdos](#critérios-para-uma-curadoria-eficiente-de-conteúdos)
+- [Curadoria Coletiva Cumbuca Dev](#curadoria-coletiva-cumbuca-dev)
+
+## Objetivo
+
+A curadoria visa oferecer uma seleção de materiais alinhados às necessidades e ao nível de
+conhecimento da pessoa mentorada para cada tema. Em vez de sobrecarregar com opções excessivas,
+buscamos escolher conteúdos essenciais que permitam um aprendizado estruturado e eficiente.
+
+O foco está em ajudar a pessoa a entender quais recursos são mais relevantes para cada tema,
+respeitando seu ritmo e estilo de aprendizado. A curadoria se adapta ao longo da jornada, ajustando
+os materiais conforme o progresso, sempre com o objetivo de garantir um aprendizado contínuo e
+focado.
+
+## Motivação
+
 Para quem está começando na área de tecnologia, a abundância de conteúdos disponíveis pode ser tanto
 uma bênção quanto um fardo. Com uma infinidade de recursos ao alcance, muitos iniciantes acabam
 enfrentando desafios que geram frustração, confusão e até desmotivação. Entre os obstáculos mais
@@ -109,7 +130,7 @@ Uma curadoria bem estruturada atende às necessidades da pessoa mentorada ao org
 forma clara e acessível, facilitando sua jornada e ajudando-a a avançar com segurança e confiança no
 aprendizado.
 
-## Curadoria Cumbuca Dev
+## Curadoria Coletiva Cumbuca Dev
 
 Para apoiar o processo de criação da sua curadoria, elaboramos uma seleção abrangente de conteúdos
 que visa facilitar a sua escolha de materiais de estudo para a pessoa mentorada.
@@ -128,4 +149,12 @@ respeitar o estilo e o ritmo de aprendizado da pessoa mentorada. Com essa aborda
 progresso contínuo e satisfatório, evitando a sobrecarga de informações e promovendo uma jornada de
 aprendizado mais prazerosa.
 
-> [Curadoria Coletiva Cumbuca Dev](https://curadoria-coletiva.fly.dev/)
+> <https://curadoria.cumbuca.dev/>
+
+![Screenshot do site curadoria.cumbuca.dev](/assets/Curadoria%20Coletiva.png)
+
+---
+
+**Ações:**
+
+- [< Voltar para Reuniões de Acompanhamento](/mentoria/metodologia/reuniões_de_acompanhamento.md)

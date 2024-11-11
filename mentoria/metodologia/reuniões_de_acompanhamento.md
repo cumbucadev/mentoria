@@ -556,7 +556,19 @@ construtiva, estabelecendo um ambiente de aprendizado positivo.
 ## Reuniões de Acompanhamento Contínuas (Demais Reuniões)
 
 Nas reuniões seguintes, o foco está em manter o acompanhamento contínuo e ajustar o suporte de
-acordo com o progresso e as necessidades identificadas. Essas reuniões servem para:
+acordo com o progresso e as necessidades identificadas.
+
+## Reuniões de Acompanhamento Contínuas
+
+Após a reunião inicial, as demais reuniões de acompanhamento têm como objetivo monitorar o progresso
+da pessoa mentorada, ajustar o suporte oferecido e redefinir as metas conforme necessário.
+
+A frequência e a duração dessas reuniões podem variar de acordo com o perfil e as necessidades da
+pessoa mentorada. Um formato comum é de 30 minutos a cada duas semanas. No entanto, para algumas
+pessoas, encontros de 15 minutos são suficientes, enquanto outras podem se beneficiar de reuniões de
+até uma hora para abordar questões em maior profundidade.
+
+As reuniões de acompanhamento contínuas servem para:
 
 - **Revisitar os Objetivos e Ajustar o Plano de Desenvolvimento**: Avaliar o progresso e, caso
   necessário, ajustar os objetivos e o plano de desenvolvimento para que se mantenham alinhados com
@@ -672,3 +684,10 @@ Aqui, iremos seguir os mesmos moldes do encerramento da primeira reunião:
 
 - Deixe uma mensagem de motivação: Encerre com palavras encorajadoras que inspirem a pessoa
   mentorada a continuar seu desenvolvimento.
+
+---
+
+**Ações:**
+
+- [< Voltar para o Início](/mentoria/metodologia/README.md)
+- [Ir para Curadoria >](/mentoria/metodologia/curadoria.md)
