@@ -14,10 +14,11 @@
 
 # Curadoria
 
-Para quem está começando na área de tecnologia, a abundância de conteúdos disponíveis pode ser tanto
-uma bênção quanto um fardo. Com uma infinidade de recursos ao alcance, muitos iniciantes acabam
-enfrentando desafios que geram frustração, confusão e até desmotivação. Entre os obstáculos mais
-comuns, destacam-se:
+Agora que já definimos os temas de estudo para as próximas etapas da mentoria, é hora de começar
+pela base teórica e construir uma estrutura sólida de conhecimento. Para quem está começando na área
+de tecnologia, a abundância de conteúdos disponíveis pode ser tanto uma bênção quanto um fardo. Com
+uma infinidade de recursos ao alcance, muitos iniciantes acabam enfrentando desafios que geram
+frustração, confusão e até desmotivação. Entre os obstáculos mais comuns, destacam-se:
 
 - **Dificuldade em definir um ponto de partida:** Com tantas trilhas, linguagens e ferramentas,
   escolher o primeiro passo pode parecer esmagador. Muitos acabam adiando o início simplesmente por
@@ -128,4 +129,12 @@ respeitar o estilo e o ritmo de aprendizado da pessoa mentorada. Com essa aborda
 progresso contínuo e satisfatório, evitando a sobrecarga de informações e promovendo uma jornada de
 aprendizado mais prazerosa.
 
-> [Curadoria Coletiva Cumbuca Dev](https://curadoria-coletiva.fly.dev/)
+> <https://curadoria.cumbuca.dev/>
+
+![Screenshot do site curadoria.cumbuca.dev](/assets/Curadoria%20Coletiva.png)
+
+---
+
+**Ações:**
+
+- [< Voltar para Reuniões de Acompanhamento](/mentoria/metodologia/reuniões_de_acompanhamento.md)
