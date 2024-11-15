@@ -59,6 +59,9 @@ Exemplo:
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
 
+- `https://learn.microsoft.com/pt-br/windows/wsl/install`
+- `https://docs.docker.com/engine/install/`
+- `https://github.com/pyenv/pyenv`
 - `https://www.youtube.com/playlist?list=PLA05yVJtRWYSlQ5ZSI5N1wKRw_n-h42nt`
 
 ### Atividades
