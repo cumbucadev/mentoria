@@ -60,12 +60,12 @@ Exemplo:
 Conteúdos que devem ser estudados por Mentee até antes da primeira atividade da semana:
 
 - Git e GitHub
- - Aprenda Git e Github em 5 minutos - https://youtu.be/-l4Aa8wef8s?si=ots0JzTO5_wlY_ID
- - Curso gratuito Git e Github #1 - Introdução - O que é git? - https://youtu.be/2c7yWlpWDJM?si=oVk5wge8XlyLUD0E
+  - Aprenda Git e Github em 5 minutos - https://youtu.be/-l4Aa8wef8s?si=ots0JzTO5_wlY_ID
+  - Curso gratuito Git e Github #1 - Introdução - O que é git? - https://youtu.be/2c7yWlpWDJM?si=oVk5wge8XlyLUD0E
 - Python
- - Aprenda Python em 10min (para Iniciantes) - https://youtu.be/4p7axLXXBGU?si=n4UQIANUof6r3KWH
+  - Aprenda Python em 10min (para Iniciantes) - https://youtu.be/4p7axLXXBGU?si=n4UQIANUof6r3KWH
 - Django
- - O que é Django - Desenvolvimento Web em Python - https://youtu.be/1SgIkOczqFY?si=zZLbjUJiVzJkFCRp
+  - O que é Django - Desenvolvimento Web em Python - https://youtu.be/1SgIkOczqFY?si=zZLbjUJiVzJkFCRp
 
 
 ### Atividades
