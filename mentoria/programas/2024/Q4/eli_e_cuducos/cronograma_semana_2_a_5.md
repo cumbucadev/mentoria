@@ -29,7 +29,15 @@ Explorar qual o papel de um sistema operacional para uma pessoa que utiliza o co
 
 * Exploração em conjunto em ligação a ser combinada
 * Exploração de comandos de terminal com base em UNIX (macOs e Linux)
-* Vídeos de suporte a ser definido depois da atividade conjunta
+* Material de suporte a definido após atividade conjunta:
+    * [Terminal Mac OS X](https://youtu.be/4traeizb0ww?si=f2ekRgY8BWPEIqjX)
+    * [Curso GNU Linux - Aula 12 - Comandos básicos](https://www.youtube.com/watch?v=Yvg7RAhq1Ss)
+    * [Manual de comandos do Linux](https://www.freecodecamp.org/portuguese/news/o-manual-de-comandos-do-linux-aprenda-comandos-do-linux-para-iniciantes/) — é uma guia de referência, não precisa ver tudo, mas:
+        * vamos usar os 10 primeiros mais ou menos (até `find`)
+        * um ou outro além disso (como o `cat`) pode ser útil, mas podemos ver no próximo encontro
+        * e tem uns que você já conhece agora (como o `grep` e o `du`)
+    * [5 comandos bacanas para o Terminal do macOS](https://youtu.be/s14aFEcyNAE?si=lLGMj-nopJbeFafa)
+    * Para você explorar por conta própria, com o `man` que você vai aprender acima: faça teu macOS falar com você com o comando `say` no Terminal
 
 ## Semana 3: 25/11 - 01/12
 
@@ -51,3 +59,9 @@ Explorar qual o papel de um sistema operacional para uma pessoa que utiliza o co
 ### Objetivo
 
 * _Hello, world!_ em Python
+* Materiais para o futuro próximo:
+    * [Comece a estudar programação por aqui!](https://www.youtube.com/playlist?list=PLb8MLffwd1Z6yrHFL6eSYsidKwnJFByRE)
+    * [Introdução ao Git e ao GitHub: colaborando com projetos de código aberto](https://escoladedados.org/tutoriais/introducao-ao-git-e-github-colaborando-com-projetos-de-codigo-aberto/)
+    * [Git para programadores iniciantes](https://youtu.be/P9xXbEhqhqA?si=y6RDVCLH8QXNGG2-)
+    * [15 subáreas da engenharia de software](https://www.youtube.com/watch?v=sw3GGqjp_q0)
+    * [Como pedir e receber ajuda na internet](https://escoladedados.org/tutoriais/como-pedir-e-receber-ajuda-na-internet/)
