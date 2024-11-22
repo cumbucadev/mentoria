@@ -77,13 +77,11 @@ cada ação e marque como concluída assim que for finalizada. -->
 
 #### Notas
 
-- 
+- Apresentado os conceitos registrados no [cronograma](cronograma_semana_2_a_5.md).
 
 #### Ações
 
-- 
-
-- [] <!-- @<pessoa> realizar <tarefa X> -->
+- [] Leitura e exploração dos conteúdos indicados.
 
 ### 18/11/2024
 

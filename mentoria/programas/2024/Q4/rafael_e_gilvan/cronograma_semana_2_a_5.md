@@ -25,7 +25,7 @@ O tema desse encontro será sobre carreira, onde abordaremos o dia a dia de uma 
 
 ### Objetivo
 
-Apresentar 
+Oferecer uma visão prática e estratégica sobre a carreira de um desenvolvedor, abordando desde metodologias e organização de equipes até o desenvolvimento de habilidades técnicas e interpessoais, preparação para entrevistas e boas práticas do mercado.
 
 ### Teoria
 
