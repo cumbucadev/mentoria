@@ -55,24 +55,42 @@ mentoria seja enriquecedora e eficaz.
 
 ## Reuniões
 
-<!-- ### <data próxima reunião>
-
-Inserir informações relevantes
+### 22.11.2024
 
 #### Notas
 
 - Revisitar Ações das Reuniões Passadas
-- Temperatura (🧊 0 a 10 🔥)
-- Como foi desde a Última Reunião
-- Como está sendo a mentoria como um todo
-- Encerramento
+  - Esquecemos 😅
+- Novidades
+  - 🐈🚶‍♀️
+  - Passou na etapa de RH do processo seletivo da Campeão de Entregas 🦸 (kkkkk).
+  - Próxima etapa: leetcode / similares. Vai tentar marcar a entrevista só para a outra semana
+    ainda.
+- Temperatura: 10 🔥
+  - Maneiro saber diferença entre git e github.
+  - Está sendo bom para perceber que não precisa ser um super gênio, que sabe de tudo de tudo, para
+    estar na TI. Que o conhecimento é adquirido gradualmente. Que a experiência conta muito.
+  - Inverno chegando... mas tá fazendo bastante exercício, comendo bem e repondo vitaminas ⚡
+    - daleeeeee!
+- Vamos focar o cronograma em apenas Git + GitHub.
+
+  - Espremer o cronograma para colocar Python ia tornar a mentoria muito pesada
+  - Melhor focar em um assunto e ir mais profundo nele. Ajuda a dar confiança. Ajuda a forma a base
+    de conhecimento.
+  - Foco em aprender bem os fundamentos.
+
+- Vamos pular a próxima reunião de acompanhamento porque a Camila estará fora em um congressso.
+  Seman que vem terá "apenas" estudo e pair guiado.
 
 #### Ações
 
-Utilize esta seção para listar as tarefas acordadas durante a reunião. Acompanhe o status de
-cada ação e marque como concluída assim que for finalizada.
+Utilize esta seção para listar as tarefas acordadas durante a reunião. Acompanhe o status de cada
+ação e marque como concluída assim que for finalizada.
 
-- [] @<pessoa> realizar <tarefa X> -->
+- [ ] @laistdomiciano marcar próximo pair para terça feira
+- [ ] @laistdomiciano ver vídeos semana 1
+- [ ] @laistdomiciano ver vídeos semana 2
+- [ ] @camilamaia abrir PR com cronograma ajustado
 
 ### 14.11.2024
 
@@ -123,7 +141,7 @@ cada ação e marque como concluída assim que for finalizada.
 - [x] @laistdomiciano marcar próximo pair
 - [x] @laistdomiciano marcar próxima reunião de acompanhamento
 - [ ] @laistdomiciano pesquisar no glassdoor sobre vaga que está aplicando
-- [ ] @camilamaia fazer proposta de cronograma
+- [x] @camilamaia fazer proposta de cronograma
 
 ### Notas Anteriores
 
