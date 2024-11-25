@@ -108,17 +108,18 @@ Exemplo:
 
 ### Objetivo
 
->
+> Finalizar as tarefas pendentes da última semana
 
 ### Teoria
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
 
--
+- `https://www.youtube.com/playlist?list=PLA05yVJtRWYSlQ5ZSI5N1wKRw_n-h42nt`
 
 ### Atividades
 
--
+- Terminar o tutorial Django Girls
+- Assistir section 25 Curso Django Rest Framework
 - Reunião de Acompanhamento
 - Preenchimento do formulário de feedback da semana (Mentor e Menteee)
 
