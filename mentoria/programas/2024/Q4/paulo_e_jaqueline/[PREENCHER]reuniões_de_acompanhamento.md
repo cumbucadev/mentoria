@@ -60,12 +60,12 @@ mentoria seja enriquecedora e eficaz.
 
 #### Notas
 
-- Realizado o nivelamento de conhecimento
+- Realizado nivelamento de conhecimento
 - Realizado alguns exercicios no formato pair programming
 
 #### Ações
 
-- Realizar os outros exercicios propostos
+- Realizar exercicios propostos via email
 
 
 ### Primeiro Encontro - 19/11/2024
