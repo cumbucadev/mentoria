@@ -14,23 +14,24 @@
   </picture>
 </div>
 
-# <nome pessoa mentorada> : <nome pessoa mentora> - Reuniões de Acompanhamento
+# Jaqueline : Paulo - Reuniões de Acompanhamento
 
-- [Objetivo](#objetivo)
-- [Reuniões](#reuniões)
-  - [<data próxima reunião>](#)
-    - [Notas](#notas)
-    - [Ações](#ações)
-  - [<data primiera reunião>](#-1)
-    - [1. Introdução](#1-introdução)
-    - [2. Apresentações](#2-apresentações)
-    - [3. Expectativas em Relação ao Programa](#3-expectativas-em-relação-ao-programa)
-    - [4. Dificuldades e Vulnerabilidades](#4-dificuldades-e-vulnerabilidades)
-    - [5. Estilo de Aprendizado](#5-estilo-de-aprendizado)
-    - [6. Estilo de Ensino](#6-estilo-de-ensino)
-    - [7. Encerramento](#7-encerramento)
-    - [8. Próximos Passos](#8-próximos-passos)
-    - [Ações](#ações-1)
+- [Jaqueline : Paulo - Reuniões de Acompanhamento](#jaqueline--paulo---reuniões-de-acompanhamento)
+  - [Objetivo](#objetivo)
+  - [Reuniões](#reuniões)
+    - [Segundo Encontro - 21/11/2024](#segundo-encontro---21112024)
+      - [Notas](#notas)
+      - [Ações](#ações)
+    - [Primeiro Encontro - 19/11/2024](#primeiro-encontro---19112024)
+      - [1. Introdução](#1-introdução)
+      - [2. Apresentações](#2-apresentações)
+      - [3. Expectativas em Relação ao Programa](#3-expectativas-em-relação-ao-programa)
+      - [4. Dificuldades e Vulnerabilidades](#4-dificuldades-e-vulnerabilidades)
+      - [5. Estilo de Aprendizado](#5-estilo-de-aprendizado)
+      - [6. Estilo de Ensino](#6-estilo-de-ensino)
+      - [7. Encerramento](#7-encerramento)
+      - [8. Próximos Passos](#8-próximos-passos)
+      - [Ações](#ações-1)
 
 ## Objetivo
 
@@ -54,26 +55,20 @@ mentoria seja enriquecedora e eficaz.
 
 ## Reuniões
 
-### <data próxima reunião>
-
+### Segundo Encontro - 21/11/2024
 <!-- Inserir informações relevantes -->
 
 #### Notas
 
-- Revisitar Ações das Reuniões Passadas
-- Temperatura (🧊 0 a 10 🔥)
-- Como foi desde a Última Reunião
-- Como está sendo a mentoria como um todo
-- Encerramento
+- Realizado o nivelamento de conhecimento
+- Realizado alguns exercicios no formato pair programming
 
 #### Ações
 
-<!-- Utilize esta seção para listar as tarefas acordadas durante a reunião. Acompanhe o status de
-cada ação e marque como concluída assim que for finalizada. -->
+- Realizar os outros exercicios propostos
 
-- [] <!-- @<pessoa> realizar <tarefa X> -->
 
-### <data primiera reunião>
+### Primeiro Encontro - 19/11/2024
 
 #### 1. Introdução
 
@@ -87,7 +82,7 @@ cada ação e marque como concluída assim que for finalizada. -->
 
 - **Pessoa Mentorada**:
 
-  -
+  - Além de aprender coisas novas sempre, como o o universo da linguagem de programação, eu gosto muito de desenho e arte (segue meu behance: https://www.behance.net/gallery/124691733/Criacao-com-base-em-meu-imaginario-ferico-e-fantastico), gosto de fotografia (tenho algumas coisas antigas aqui: https://www.flickr.com/photos/jackie-alves/with/15315208690), de passear com meu cachorro♡ em locais com muita natureza, de jardinagem e leitura.
 
 #### 3. Expectativas em Relação ao Programa
 
@@ -99,7 +94,7 @@ cada ação e marque como concluída assim que for finalizada. -->
 
 - **Pessoa Mentorada**:
 
-  -
+  - Entender melhor todo o universo em torno dos códigos para além dos meus estudos sozinha comigo mesma, como me inserir no mercado de trabalho, como interagir dentro desse mercado, como estudar de forma mais direcionada, como conseguir uma vaga inclusiva, etc...
 
 #### 4. Dificuldades e Vulnerabilidades
 
@@ -111,7 +106,7 @@ cada ação e marque como concluída assim que for finalizada. -->
 
 - **Pessoa Mentorada**:
 
-  -
+  - Dificuldade em compreender o que se espera de mim; Dificuldade de leitura social e de me sentir segura nas trocas sociais; Dificuldade de entender como me direcionar como iniciante com uma linguagem tão ampla para atingir 1 oportunidade de trabalho; etc
 
 #### 5. Estilo de Aprendizado
 
@@ -119,7 +114,7 @@ cada ação e marque como concluída assim que for finalizada. -->
 
 - **Pessoa Mentorada**:
 
-  -
+  - Me sinto confortável para estudar com todo material que possa ser transcrito em anotações pessoais, porém, o recuso visual pode me ajudar muito com temas mais objetivos. 
 
 #### 6. Estilo de Ensino
 
@@ -137,9 +132,7 @@ cada ação e marque como concluída assim que for finalizada. -->
 
 #### 8. Próximos Passos
 
-<!-- Definir data e hora da próxima reunião -->
-
--
+- No próximo encontro vamos nivelar o conhecimento, conversar sobre carreira, e pensar em estrategias para se inserir no mercado.
 
 #### Ações
 
