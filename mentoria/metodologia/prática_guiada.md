@@ -18,6 +18,25 @@ A Prática Guiada é uma fase em que a pessoa mentora conduz o aprendizado, real
 enquanto explica o processo de forma clara e didática. Nessa etapa, a pessoa mentora é responsável
 por todo o código, mas a pessoa mentorada acompanha atentamente, aprendendo com cada decisão tomada.
 
+- [Objetivos](#objetivos)
+  - [Prática com Open Source](#prática-com-open-source)
+  - [Duração](#duração)
+  - [Pré-Reunião](#pré-reunião)
+    - [Escolha um Repositório e uma Issue](#escolha-um-repositório-e-uma-issue)
+    - [Prepare o seu Ambiente Local](#prepare-o-seu-ambiente-local)
+    - [Reserve um tempo para se concentrar](#reserve-um-tempo-para-se-concentrar)
+  - [Início da Reunião](#início-da-reunião)
+  - [Contextualização do Open Source](#contextualização-do-open-source)
+  - [Apresentação do Repositório](#apresentação-do-repositório)
+  - [Apresentação da Issue](#apresentação-da-issue)
+  - [Durante o pareamento](#durante-o-pareamento)
+    - [Ritmo](#ritmo)
+    - [Incentive a Experimentação](#incentive-a-experimentação)
+    - [Incentive Perguntas](#incentive-perguntas)
+    - [Mostre suas Vulnerabilidade](#mostre-suas-vulnerabilidade)
+    - [Peça feedbacks](#peça-feedbacks)
+  - [Encerramento](#encerramento)
+
 ## Objetivos
 
 - **Demonstrar a prática no código**: A pessoa mentora vai ser responsável por resolver problemas,
@@ -191,4 +210,5 @@ resolver tudo em uma sessão, mas pode-se continuar em um próximo encontro.
 
 **Ações:**
 
-- [< Voltar Curadoria](/mentoria/metodologia/curadoria.md)
+- [< Voltar para Exploração do Conteúdo](/mentoria/metodologia/exploração_do_conteúdo.md)
+- [Avaçar para Prática Assistida >](/mentoria/metodologia/prática_assistida.md)
