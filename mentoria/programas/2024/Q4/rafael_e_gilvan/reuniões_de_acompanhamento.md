@@ -73,6 +73,26 @@ cada ação e marque como concluída assim que for finalizada. -->
 
 - [] <!-- @<pessoa> realizar <tarefa X> -->
 
+### 28/11/2024 - Terceiro Encontro
+
+Neste encontro, realizamos um exercício de whiteboard focado na descoberta e análise de um problema. Essa prática é essencial, não apenas para processos seletivos que exigem a apresentação de soluções, mas também para o dia a dia do desenvolvimento, onde desafios surgem constantemente e demandam soluções criativas e colaborativas.
+
+Revisamos ainda alguns conceitos importantes para criação de aplicações web e web APIs.
+
+Mais detalhes podem ser encontrados no [cronograma](cronograma_semana_2_a_5.md).
+
+#### Notas
+
+- Exercício dividido em duas partes:
+  - Prática guiada
+  - Prática assistida
+- Utilizamos a ferramenta [Escalidraw](https://excalidraw.com/) para a prática.
+- Revisamos os conceitos propostos no [cronograma](cronograma_semana_2_a_5.md).
+
+#### Ações
+
+- No nosso próximo encontro vamos ter uma prática para construção de uma Web API.
+
 ### 21/11/2024 - Segundo Encontro
 
 #### Notas
