@@ -162,6 +162,7 @@ Projetar o backend de um aplicativo de blog com as seguintes funcionalidades:
 Extra:
 
 - [JSON](https://www.alura.com.br/artigos/o-que-e-json)
+- [Swagger API Docs](https://swagger.io/specification/)
 
 ### Atividades
 
