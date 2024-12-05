@@ -14,14 +14,11 @@
   </picture>
 </div>
 
-# Flávia : Sinara - Reuniões de Acompanhamento
+# Clovis & Gustavo - Reuniões de Acompanhamento
 
 - [Objetivo](#objetivo)
 - [Reuniões](#reuniões)
-  - [19.11.24](#)
-    - [Notas](#notas)
-    - [Ações](#ações)
-  - [17.11.24](#-1)
+  - [05.12.24](#-1)
     - [1. Introdução](#1-introdução)
     - [2. Apresentações](#2-apresentações)
     - [3. Expectativas em Relação ao Programa](#3-expectativas-em-relação-ao-programa)
@@ -54,22 +51,36 @@ mentoria seja enriquecedora e eficaz.
 
 ## Reuniões
 
-### 17.11.24
+### 05.12.24
 
 #### 1. Introdução
-Registros sobre a primeira reunião proposta pelo programa de mentoria do Cumcuba que teve como objetivo nos conhecermos e traçar um planejamento inicial de estudo para essa programa.
+Registros sobre a primeira reunião proposta pelo programa de mentoria do Cumbuca que teve como 
+objetivo nos conhecermos e traçar um planejamento inicial de estudo para essa programa.
 
 #### 2. Apresentações
 
-<!-- Insira informações relevantes sobre cada participante -->
+**Clovis**
 
-- **Pessoa Mentora**:
+- Carioca, 53 anos
+- Administrador de Empresas
+- Foi militar por 6 anos
+- Passagem por várias empresas: Localiza, Oi, Tim, Xerox
+- Atuou em Vendas B2B
+- Iniciou segunda graduação por incentivo da esposa - istemas de informações (UFF)
+- Mais um ano de curso para formar, já viu básico de SQL, Python
+- Maior objetivo é conseguir ganhar experiência para entrar no mercado de TI
+- Já leu o Introdução ao Python do Nilo Menezes
+- Gosta de ajudar as outras pessoas
 
-  - @Flaviasv
+**Gustavo**
 
-- **Pessoa Mentorada**:
-
-  - Sou sinara, tenho 27 anos e estou a 4 anos na área da tecnologia, trabalhando com desenvolvimento web tanto por parte do frontend quanto backend. Para além do lado dev também sou atleta e professora de tênis de mesa 🏓, adoro um violãozinho 🎸 e viajar 🛫. 
+- Araraquarense, 33 anos
+- Analytics Engineer na IPP
+- Trajetória acadêmica maluca (mas sólida)
+- Transição de carreira para a área de DS recente
+- Pythonista há 5 anos
+- Sou apaixonado por educação
+- Gosto de ler, jogar e de música
 
 #### 3. Expectativas em Relação ao Programa
 
@@ -77,11 +88,21 @@ Registros sobre a primeira reunião proposta pelo programa de mentoria do Cumcub
 
 - **Pessoa Mentora**:
 
-  - @Flaviasv
+  - Colaborar com a comunidade Python
+  - Fazer a diferença na vida de uma pessoa
+  - Plantar uma semente do bem e de ajuda mútua
+  - Melhorar minhas habilidades em open code
+  - Exercitar minha didática e manter-me próximo da educação
+  - Enriquecer meu CV
 
 - **Pessoa Mentorada**:
 
-  - Espero poder contribuir da melhor forma que puder com o programa, me conectar com novas pessoas e aprender em conjunto ❤️
+  - Conseguir uma primeira oportunidade na área de TI
+  - Montar um portfolio na área de programação
+  - Ter a experiência "na prática" (só tem a bagagem acadêmica)
+  - Desenvolver-se mais na linguagem Python
+
+  Obs. Tem maior predileção por backend/ análise de dados. Não curte tanto redes e hardware.
 
 #### 4. Dificuldades e Vulnerabilidades
 
@@ -89,11 +110,15 @@ Registros sobre a primeira reunião proposta pelo programa de mentoria do Cumcub
 
 - **Pessoa Mentora**:
 
-  - @Flaviasv
+  - Gestão do tempo
+  - Quero ser mais objetivo e assertivo
+  - Medo de não conseguir transmitir o meu conhecimento e não ser didático o suficiente
 
 - **Pessoa Mentorada**:
 
-  - Quero melhorar minha comunicação, trabalhando a clareza das informações que quero transmitir em uma conversa.
+  - Gestão do tempo
+  - Insegurança em relação à transição de carreira
+  - Medo de não atingir o que é esperado
 
 #### 5. Estilo de Aprendizado
 
@@ -101,39 +126,43 @@ Registros sobre a primeira reunião proposta pelo programa de mentoria do Cumcub
 
 - **Pessoa Mentorada**:
 
-  - @Flaviasv
+  - Não consegue identificar um predominante. Está aberto aos três estilos (visual, auditivo e sinestésico)
 
 #### 6. Estilo de Ensino
 
 - **Pessoa Mentora**:
 
-  - Acredito que sou flexível aos modelos de ensino, prezo por seguir o estilo de estudo de quem estou ensinando, utilizando diversos recursos e o que se mostrar ser mais efetivo a medida do possível.
+  - Eu gosto de dar pinceladas teóricas do assunto, mas sempre trazendo exemplo
+  - Costumo ser compreensivo e auxiliar bastante nas práticas
+  - Espero que o aluno tenha autonomia e dedicação para ir a fundo nos assuntos
+  - Em contrapartida, comprometo-me a trazer sempre projetos que façam sentido para o contexto dele (à la Freire)
 
 #### 7. Encerramento
 
 <!-- Notas sobre feedback, dúvidas e reflexões -->
 
--
+Ficou acordado um roteiro inicial de:
+
+1. Git e Gitflow (pensar em usar o GitCaos)
+2. Revisão Geral 
+  - Tipo de Dados, Variável, etc.
+  - Estruturas condicionais e de repetição
+  - Tipos Avançados: Listas, Tuplas, Dicionários, etc.
+3. Análise de dados com Python (focar em datasets de futebol)
 
 #### 8. Próximos Passos
 
-- 2º encontro marcado para o dia **19/11/2024 às 14:00** (Horário de Brasília)
+- 2º encontro marcado para o dia **12/12/24 às 17:00** (Horário de Brasília)
 
 #### Ações
 
 - **Pessoa Mentora**:
 
-- [ ] Disponibilizar conteúdos sobre áreas na tecnologia
+- [ ] Disponibilizar conteúdos sobre Git e Gitflow
 - [ ] Planejar/montar um plano de estudos
-  - Fundamentos
-  - Lógica de programação
-  - Git
 
 - **Pessoa Mentorada**:
 
-- [ ] Explorar de áreas de interesse 🕵🏻
-- [ ] Preencher este arquivo com suas informações 🙋
-- [ ] Começar a explorar conteúdos relazionados com o plano de estudos
-  - Fundamentos
-  - Lógica de programação
-  - Git
+- [ ] Criar conta no GitHub
+- [ ] Recuperar o estado atual do Linkedin, eventualmente atualizar uma coisa ou outra.
+- [ ] Repassar o livro de Python do Nilo Menezes

@@ -2,24 +2,12 @@
 
 # 📅 Cronograma de Mentoria da Cumbuca Dev
 
-- [Semana 2: 18/11 - 24/11](#semana-2-1811---2411)
+- [Semana 2: 09/12 - 15/12](#semana-2-1811---2411)
   - [Objetivo](#objetivo)
   - [Teoria](#teoria)
   - [Atividades](#atividades)
-- [Semana 3: 25/11 - 01/12](#semana-3-2511---0112)
-  - [Objetivo](#objetivo-1)
-  - [Teoria](#teoria-1)
-  - [Atividades](#atividades-1)
-- [Semana 4: 02/12 - 08/12](#semana-4-0212---0812)
-  - [Objetivo](#objetivo-2)
-  - [Teoria](#teoria-2)
-  - [Atividades](#atividades-2)
-- [Semana 5: 09/12 - 15/12](#semana-5-0912---1512)
-  - [Objetivo](#objetivo-3)
-  - [Teoria](#teoria-3)
-  - [Atividades](#atividades-3)
 
-## Semana 2: 18/11 - 24/11
+## Semana 2: 09/12 - 15-12
 
 ### Objetivo
 
