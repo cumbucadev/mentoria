@@ -33,7 +33,7 @@ Exemplo:
 
 -->
 
-> Configurar o ambiente de desenvolvimento e entender a estrutura de um projeto Django
+- Entender e praticar comandos básicos de Git;
 
 ### Teoria
 
@@ -57,12 +57,16 @@ Exemplo:
 
 -->
 
-Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
+Conteúdos que devem ser estudados por Mentee até antes da primeira atividade da semana:
 
-- `https://learn.microsoft.com/pt-br/windows/wsl/install`
-- `https://docs.docker.com/engine/install/`
-- `https://github.com/pyenv/pyenv`
-- `https://www.youtube.com/playlist?list=PLA05yVJtRWYSlQ5ZSI5N1wKRw_n-h42nt`
+- Git e GitHub
+  - Aprenda Git e Github em 5 minutos - https://youtu.be/-l4Aa8wef8s?si=ots0JzTO5_wlY_ID
+  - Curso gratuito Git e Github #1 - Introdução - O que é git? - https://youtu.be/2c7yWlpWDJM?si=oVk5wge8XlyLUD0E
+- Python
+  - Aprenda Python em 10min (para Iniciantes) - https://youtu.be/4p7axLXXBGU?si=n4UQIANUof6r3KWH
+- Django
+  - O que é Django - Desenvolvimento Web em Python - https://youtu.be/1SgIkOczqFY?si=zZLbjUJiVzJkFCRp
+
 
 ### Atividades
 
@@ -96,30 +100,41 @@ Exemplo:
 
 -->
 
-- Instalar WSL2 no Windows
-- Instalar Docker
-- Instalar Pyenv
-- Assistir a Playlist
-- Fazer o tutorial Django Girls
-- Reunião de Acompanhamento
-- Preenchimento do formulário de feedback da semana (Mentor e Menteee)
+- Prática sem Supervisão: Instalação do VSCode no Linux Ubuntu;
+
+
+  1. Fazer o download do VSCode em https://go.microsoft.com/fwlink/?LinkID=760868 e salvar no diretório "Downloads";
+  2. Abrir um terminal e executar o seguinte comando e seguir as instruções para finalização da instalação:
+
+    ```sh
+    sudo apt install ~/Downloads/code_1.95.3-1731513102_amd64.deb 
+    ```
+
+  3. Testar se a instalação foi bem sucedida digitando o comando "code":
+
+    ```sh
+    code .
+    ```
+
+- Prática Guiada por Mentor : Git comandos básicos;
+- Reunião de Acompanhamento;
+- Preenchimento do formulário de feedback da semana (Mentor e Menteee);
 
 ## Semana 3: 25/11 - 01/12
 
 ### Objetivo
 
-> Finalizar as tarefas pendentes da última semana
+>
 
 ### Teoria
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
 
-- `https://www.youtube.com/playlist?list=PLA05yVJtRWYSlQ5ZSI5N1wKRw_n-h42nt`
+-
 
 ### Atividades
 
-- Terminar o tutorial Django Girls
-- Assistir section 25 Curso Django Rest Framework
+-
 - Reunião de Acompanhamento
 - Preenchimento do formulário de feedback da semana (Mentor e Menteee)
 
@@ -127,19 +142,17 @@ Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira ativi
 
 ### Objetivo
 
-> Finalizar as tarefas pendentes da última semana
+>
 
 ### Teoria
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
 
-- `https://github.com/cumbucadev/gitcaos`
+-
 
 ### Atividades
 
-- Terminar projeto API Rest
-- Fazer o Gitcaos
-- Trazer esboço de um projeto pessoal
+-
 - Reunião de Acompanhamento
 - Preenchimento do formulário de feedback da semana (Mentor e Menteee)
 

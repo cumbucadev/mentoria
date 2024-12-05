@@ -14,9 +14,24 @@
 
 # Metodologia de Mentoria
 
-Este documento descreve a metodologia de ensino utilizada no programa de mentoria da Cumbuca Dev. O
-fluxo proposto visa oferecer uma abordagem balanceada entre teoria e prática, promovendo o
-desenvolvimento das habilidades necessárias para avançar na carreira com autonomia e confiança.
+Este documento descreve a metodologia de ensino para mentorias da Cumbuca Devque combina um fluxo
+estruturado de aprendizado com apoios complementares. A metodologia é projetada para promover o
+desenvolvimento contínuo e garantir que a pessoa mentorada avance com confiança e autonomia em sua
+jornada. O processo inclui um acompanhamento regular, uma curadoria de conteúdo, práticas guiadas e
+independentes, além de contar com a construção de uma rede de apoio essencial para o crescimento
+pessoal e profissional.
+
+- [Fluxo de Mentoria](#fluxo-de-mentoria)
+  - [1. Reuniões de Acompanhamento](#1-reuniões-de-acompanhamento)
+  - [2. Teoria](#2-teoria)
+    - [2.1 Curadoria de Conteúdo](#21-curadoria-de-conteúdo)
+    - [2.2 Exploração do Conteúdo](#22-exploração-do-conteúdo)
+  - [3. Prática](#3-prática)
+    - [3.1 Prática Guiada](#31-prática-guiada)
+    - [3.2 Prática Assistida](#32-prática-assistida)
+    - [3.3 Prática Independente](#33-prática-independente)
+- [Apoios Complementares](#apoios-complementares)
+  - [Expansão da Rede de Apoio](#expansão-da-rede-de-apoio)
 
 ## Fluxo de Mentoria
 
@@ -50,7 +65,7 @@ A prática é dividida em dois momentos principais:
 A pessoa mentora seleciona artigos, vídeos, documentações e outros recursos relevantes,
 organizando-os de modo a otimizar o aprendizado.
 
-#### 2.1 Exploração do Conteúdo
+#### 2.2 Exploração do Conteúdo
 
 A pessoa mentorada explora o conteúdo selecionado, absorvendo a base teórica necessária.
 
@@ -82,12 +97,21 @@ ganhar confiança nas suas habilidades.
 A etapa final é realizada de forma independente pela pessoa mentorada, sem acompanhamento direto.
 Isso reforça a autossuficiência e permite avaliar o domínio completo do tema.
 
+## Apoios Complementares
+
+### Expansão da Rede de Apoio
+
+É recomendado que a pessoa mentora auxilie a pessoa mentorada na construção de uma rede de apoio
+sólida. Embora a orientação direta da pessoa mentora seja crucial, é igualmente importante que a
+pessoa mentorada tenha o suporte de outras pessoas e comunidades que possam contribuir com novas
+perspectivas, recursos e conselhos. Quanto maior for a rede de apoio da pessoa mentorada, maiores
+serão suas chances de superar os desafios e avançar com confiança na sua jornada de desenvolvimento
+pessoal e profissional.
+
 ---
 
-Esse fluxo é projetado para criar um ambiente de aprendizado colaborativo e gradual, focado no
-desenvolvimento contínuo e na capacidade de resolver problemas de maneira independente.
-
-Vamos agora entender um pouco mais a fundo cada etapa:
+A seguir, vamos detalhar como o processo se organiza, incluindo o fluxo de mentoria e os apoios
+complementares que ajudam a consolidar o aprendizado.
 
 **Ações:**
 

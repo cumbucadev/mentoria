@@ -19,6 +19,7 @@ detalhadas sobre nossa metodologia de mentoria, registros dos programas de mento
 discussões abertas para que participantes possam interagir e compartilhar experiências.
 
 - [A Cumbuca Dev](#a-cumbuca-dev-)
+- [Metodologia](#metodologia-)
 - [Programas de Mentoria](#programas-de-mentoria-)
   - [Fique por Dentro](#fique-por-dentro-)
 - [Discussões e Interações](#discussões-e-interações-)
@@ -31,6 +32,21 @@ discussões abertas para que participantes possam interagir e compartilhar exper
 Através de programas educacionais abrangentes, capacitamos e apoiamos ativamente grupos
 minoritários, visando não apenas sua inclusão, mas também o desenvolvimento de líderes em potencial
 dentro do setor. Conheça mais em <https://cumbuca.dev>.
+
+## Metodologia 📋
+
+A metodologia de mentoria da Cumbuca Dev foi desenvolvida para capacitar pessoas de grupos
+minoritários a avançar em suas carreiras com confiança e autonomia. Nossa metodologia combina teoria
+e prática de forma estruturada, promovendo aprendizado contínuo e habilidades essenciais para o
+mercado de trabalho.
+
+O fluxo de mentoria inclui etapas como acompanhamento personalizado, curadoria de conteúdo, e
+práticas guiadas, assistidas e independentes. Esse processo gradual e colaborativo permite que as
+pessoas mentoradas desenvolvam tanto conhecimento técnico quanto a confiança necessária para aplicar
+esses conhecimentos de forma independente.
+
+Detalhes sobre o fluxo e cada etapa podem ser encontrados na
+[documentação completa da metodologia](/mentoria/metodologia/README.md).
 
 ## Programas de Mentoria 🤓
 
