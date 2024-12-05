@@ -175,7 +175,6 @@ Extra:
 ### Objetivo
 
 >
-
 ### Teoria
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
@@ -193,7 +192,6 @@ Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira ativi
 ### Objetivo
 
 >
-
 ### Teoria
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:

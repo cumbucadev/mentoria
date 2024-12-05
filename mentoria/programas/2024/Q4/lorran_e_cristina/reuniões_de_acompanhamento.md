@@ -73,58 +73,77 @@ cada ação e marque como concluída assim que for finalizada. -->
 
 - [] <!-- @<pessoa> realizar <tarefa X> -->
 
-### 28/11/2024 - Terceiro Encontro
+### <data primiera reunião>
 
-Neste encontro, realizamos um exercício de whiteboard focado na descoberta e análise de um problema. Essa prática é essencial, não apenas para processos seletivos que exigem a apresentação de soluções, mas também para o dia a dia do desenvolvimento, onde desafios surgem constantemente e demandam soluções criativas e colaborativas.
+#### 1. Introdução
 
-Revisamos ainda alguns conceitos importantes para criação de aplicações web e web APIs.
+#### 2. Apresentações
 
-Mais detalhes podem ser encontrados no [cronograma](cronograma_semana_2_a_5.md).
+<!-- Insira informações relevantes sobre cada participante -->
 
-#### Notas
+- **Pessoa Mentora**:
 
-- Exercício dividido em duas partes:
-  - Prática guiada
-  - Prática assistida
-- Utilizamos a ferramenta [Escalidraw](https://excalidraw.com/) para a prática.
-- Revisamos os conceitos propostos no [cronograma](cronograma_semana_2_a_5.md).
+  -
 
-#### Ações
+- **Pessoa Mentorada**:
 
-- No nosso próximo encontro vamos ter uma prática para construção de uma Web API.
-
-### 21/11/2024 - Segundo Encontro
-
-#### Notas
-
-- Apresentado os conceitos registrados no [cronograma](cronograma_semana_2_a_5.md).
-
-#### Ações
-
-- [] Leitura e exploração dos conteúdos indicados.
-
-### 18/11/2024
-
-Primeiro encontro voltado para apresentações e primeiro contato, alinhamento de objetivos e expectativas.
+  -
 
 #### 3. Expectativas em Relação ao Programa
 
-- **Carreira:** Discussões sobre entrevistas, organização de equipes e o dia a dia na vida de um desenvolvedor.
-- **Tecnologias:** Conversas e práticas envolvendo ReactJS e Python.
-- **Dúvidas:** Dúvidas gerais sobre conteúdo apresentados e/ou tecnologias.
+<!-- Registre as expectativas de ambas as partes em relação ao programa de mentoria. -->
+
+- **Pessoa Mentora**:
+
+  -
+
+- **Pessoa Mentorada**:
+
+  -
+
+#### 4. Dificuldades e Vulnerabilidades
+
+<!-- Anote as dificuldades e vulnerabilidades identificadas por ambas as partes.  -->
+
+- **Pessoa Mentora**:
+
+  -
+
+- **Pessoa Mentorada**:
+
+  -
 
 #### 5. Estilo de Aprendizado
 
-- Compatilhamento de materiais
-- Indicações de Livros
-- Práticas
-- Apresentação de Conceitos
+<!-- Anote as preferências de aprendizado descritas pela pessoa mentorada  -->
+
+- **Pessoa Mentorada**:
+
+  -
+
+#### 6. Estilo de Ensino
+
+<!-- Inserir informações relevantes -->
+
+- **Pessoa Mentora**:
+
+  -
+
+#### 7. Encerramento
+
+<!-- Notas sobre feedback, dúvidas e reflexões -->
+
+-
 
 #### 8. Próximos Passos
 
-No próximo encontro vamos conversar sobre carreira, onde abordaremos temas como, dia a dia de uma equipe de desenvolvimento, processos seletivos, e boas práticas.
+<!-- Definir data e hora da próxima reunião -->
+
+-
 
 #### Ações
 
-- [] Levantar dúvidas sobre carreira para ser respondidas durante o nosso papo.
-- [] Explorar o [roadmap.sh](https://roadmap.sh/roadmaps), onde encontrará diferentes trilhas de desenvolvimento e as principais habilidades a serem desenvolvidas em cada uma delas.
+<!-- Utilize esta seção para listar as tarefas acordadas durante a reunião. Acompanhe o status de
+cada ação e marque como concluída assim que for finalizada. -->
+
+- [] <!-- @<pessoa> realizar <tarefa X> -->

@@ -33,7 +33,7 @@ Exemplo:
 
 -->
 
-> Configurar o ambiente de desenvolvimento e entender a estrutura de um projeto Django
+>
 
 ### Teoria
 
@@ -59,10 +59,7 @@ Exemplo:
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
 
-- `https://learn.microsoft.com/pt-br/windows/wsl/install`
-- `https://docs.docker.com/engine/install/`
-- `https://github.com/pyenv/pyenv`
-- `https://www.youtube.com/playlist?list=PLA05yVJtRWYSlQ5ZSI5N1wKRw_n-h42nt`
+-
 
 ### Atividades
 
@@ -96,11 +93,7 @@ Exemplo:
 
 -->
 
-- Instalar WSL2 no Windows
-- Instalar Docker
-- Instalar Pyenv
-- Assistir a Playlist
-- Fazer o tutorial Django Girls
+-
 - Reunião de Acompanhamento
 - Preenchimento do formulário de feedback da semana (Mentor e Menteee)
 
@@ -108,18 +101,17 @@ Exemplo:
 
 ### Objetivo
 
-> Finalizar as tarefas pendentes da última semana
+>
 
 ### Teoria
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
 
-- `https://www.youtube.com/playlist?list=PLA05yVJtRWYSlQ5ZSI5N1wKRw_n-h42nt`
+-
 
 ### Atividades
 
-- Terminar o tutorial Django Girls
-- Assistir section 25 Curso Django Rest Framework
+-
 - Reunião de Acompanhamento
 - Preenchimento do formulário de feedback da semana (Mentor e Menteee)
 
@@ -127,19 +119,17 @@ Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira ativi
 
 ### Objetivo
 
-> Finalizar as tarefas pendentes da última semana
+>
 
 ### Teoria
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
 
-- `https://github.com/cumbucadev/gitcaos`
+-
 
 ### Atividades
 
-- Terminar projeto API Rest
-- Fazer o Gitcaos
-- Trazer esboço de um projeto pessoal
+-
 - Reunião de Acompanhamento
 - Preenchimento do formulário de feedback da semana (Mentor e Menteee)
 
