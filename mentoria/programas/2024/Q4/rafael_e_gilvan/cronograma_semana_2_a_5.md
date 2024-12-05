@@ -111,13 +111,58 @@ A entrevista é uma etapa fundamental na carreira de um desenvolvedor, onde são
 
 ### Objetivo
 
->
+#### Projeto de System Design - Todo List App
+
+**Objetivo**
+
+Desenhar um sistema para um aplicativo de "Todo List" que permita aos usuários criar, gerenciar e organizar tarefas em diferentes listas.
+
+**1. Gestão de Listas de Tarefas**  
+- Os usuários podem criar, editar e excluir listas.  
+- Cada lista pode conter múltiplas tarefas.
+
+**2. Gestão de Tarefas**  
+- As tarefas podem ser criadas, editadas, marcadas como concluídas ou excluídas.  
+- Cada tarefa deve conter:  
+  - Um título.  
+  - Uma descrição opcional.  
+  - Uma data de vencimento opcional.  
+  - Um status (pendente ou concluído).
+
+---
+
+#### Projeto de System Design - Blog com Categorias e Posts
+
+**Objetivo**  
+Projetar o backend de um aplicativo de blog com as seguintes funcionalidades:
+
+**1. Gestão de Categorias**  
+- Permitir que os administradores criem, editem e excluam categorias.
+- Os posts podem ser associados a uma ou mais categorias.  
+
+**2. Gestão de Posts**  
+- Os usuários autenticados podem criar, editar e excluir seus próprios posts.
+
+**3. Exibição de Posts e Categorias**
+- Permitir que os usuários visualizem posts organizados por categoria.
+- Suportar paginação para lidar com um grande número de posts.
+
+**5. Pesquisa e Filtros**  
+- Implementar busca por palavras-chave no título e no corpo dos posts.  
+- Filtrar posts por categoria, data de criação ou status.
+
 
 ### Teoria
 
-Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
+- [Arquitetura Cliente-Servidor](https://www.geeksforgeeks.org/client-server-architecture-system-design/)
+- [Protocolo HTTP](https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+- [Model View Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+- [REST API](https://www.alura.com.br/artigos/rest-principios-e-boas-praticas)
 
--
+Extra:
+
+- [JSON](https://www.alura.com.br/artigos/o-que-e-json)
+- [Swagger API Docs](https://swagger.io/specification/)
 
 ### Atividades
 
@@ -130,7 +175,6 @@ Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira ativi
 ### Objetivo
 
 >
-
 ### Teoria
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
@@ -148,7 +192,6 @@ Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira ativi
 ### Objetivo
 
 >
-
 ### Teoria
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
