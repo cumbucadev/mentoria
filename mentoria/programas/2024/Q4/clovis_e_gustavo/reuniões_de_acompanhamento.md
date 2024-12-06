@@ -66,7 +66,7 @@ objetivo nos conhecermos e traçar um planejamento inicial de estudo para essa p
 - Foi militar por 6 anos
 - Passagem por várias empresas: Localiza, Oi, Tim, Xerox
 - Atuou em Vendas B2B
-- Iniciou segunda graduação por incentivo da esposa - istemas de informações (UFF)
+- Iniciou segunda graduação por incentivo da esposa - Sistemas de informações (UFF)
 - Mais um ano de curso para formar, já viu básico de SQL, Python
 - Maior objetivo é conseguir ganhar experiência para entrar no mercado de TI
 - Já leu o Introdução ao Python do Nilo Menezes
@@ -112,7 +112,7 @@ objetivo nos conhecermos e traçar um planejamento inicial de estudo para essa p
 
   - Gestão do tempo
   - Quero ser mais objetivo e assertivo
-  - Medo de não conseguir transmitir o meu conhecimento e não ser didático o suficiente
+  - Medo de não ser didático o suficiente
 
 - **Pessoa Mentorada**:
 
@@ -126,7 +126,8 @@ objetivo nos conhecermos e traçar um planejamento inicial de estudo para essa p
 
 - **Pessoa Mentorada**:
 
-  - Não consegue identificar um predominante. Está aberto aos três estilos (visual, auditivo e sinestésico)
+  Não consegue identificar um predominante. 
+  Está aberto aos três estilos (visual, auditivo e sinestésico)
 
 #### 6. Estilo de Ensino
 
@@ -145,9 +146,9 @@ Ficou acordado um roteiro inicial de:
 
 1. Git e Gitflow (pensar em usar o GitCaos)
 2. Revisão Geral 
-  - Tipo de Dados, Variável, etc.
-  - Estruturas condicionais e de repetição
-  - Tipos Avançados: Listas, Tuplas, Dicionários, etc.
+  2.1. Tipo de Dados, Variável, etc.
+  2.2. Estruturas condicionais e de repetição
+  2.3. Tipos Avançados: Listas, Tuplas, Dicionários, etc.
 3. Análise de dados com Python (focar em datasets de futebol)
 
 #### 8. Próximos Passos
