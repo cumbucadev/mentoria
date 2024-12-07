@@ -147,16 +147,18 @@ Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira ativi
 
 ### Objetivo
 
->
+> Finalizar as tarefas pendentes da última semana
 
 ### Teoria
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
 
--
+- `https://github.com/cumbucadev/gitcaos`
 
 ### Atividades
 
--
+- Terminar projeto API Rest
+- Fazer o Gitcaos
+- Trazer esboço de um projeto pessoal
 - Reunião de Acompanhamento
 - Preenchimento do formulário de feedback da semana (Mentor e Menteee)
