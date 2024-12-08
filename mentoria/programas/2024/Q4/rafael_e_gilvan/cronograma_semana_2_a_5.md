@@ -166,26 +166,42 @@ Extra:
 
 ### Atividades
 
--
-- Reunião de Acompanhamento
-- Preenchimento do formulário de feedback da semana (Mentor e Menteee)
+-- 
 
 ## Semana 4: 02/12 - 08/12
 
+Prática: Criação de API com FastAPI.
+
 ### Objetivo
 
->
+Exercitar conceitos de desenvolvimento de APIs Web, utilizando o Python com FastAPI para demonstrar os conceitos. 
+
 ### Teoria
 
-Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
-
--
+- Livro: [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
+- [Python](https://www.python.org/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- Ferramentas:
+  - [IDE: PyCharm Community](https://www.jetbrains.com/pycharm/download/)
+  - [Postman](https://www.postman.com/)
 
 ### Atividades
 
--
-- Reunião de Acompanhamento
-- Preenchimento do formulário de feedback da semana (Mentor e Menteee)
+1. **Prática Guiada:** Desenvolver WebAPI com FastAPI para controle de *ToDo List*.
+   1. Criar endpoint de listagem de lista de tarefas;
+   2. Criar endpoint de criação de lista de tarefas;
+   3. Criar endpoint de listagem de tarefas;
+   4. Criar endpoint de criação de tarefas;
+   5. Criar endpoint de troca de status das tarefas;
+2. **Prática Assistida:** Desenvolver WebAPI com FastAPI para gestão de um blog.
+   1. Criar endpoint de listagem de categorias;
+   2. Criar endpoint de criação de categorias;
+   3. Criar endpoint de listagem de posts;
+   4. Criar endpoint de criação de posts;
+
+***Extra***
+
+Criar docker para a rodar a aplicação.
 
 ## Semana 5: 09/12 - 15/12
 
