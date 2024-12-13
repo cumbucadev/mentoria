@@ -79,6 +79,18 @@ Prática: Criação de WebAPI em FastAPI.
 
 - [] Exercitar e Explorar o FastAPI;
 
+### 05/12/2024 - Quarto Encontro
+
+Prática: Criação de WebAPI em FastAPI.
+
+#### Notas
+
+- Conseguimos completar a prática guiada para o desenvolvimento de uma WebAPI com FastAPI.
+
+#### Ações
+
+- [] Exercitar e Explorar o FastAPI;
+
 ### 28/11/2024 - Terceiro Encontro
 
 Neste encontro, realizamos um exercício de whiteboard focado na descoberta e análise de um problema. Essa prática é essencial, não apenas para processos seletivos que exigem a apresentação de soluções, mas também para o dia a dia do desenvolvimento, onde desafios surgem constantemente e demandam soluções criativas e colaborativas.
