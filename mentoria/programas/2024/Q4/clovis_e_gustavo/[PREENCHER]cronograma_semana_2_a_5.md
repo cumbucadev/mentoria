@@ -2,24 +2,12 @@
 
 # 📅 Cronograma de Mentoria da Cumbuca Dev
 
-- [Semana 2: 18/11 - 24/11](#semana-2-1811---2411)
+- [Semana 2: 09/12 - 15/12](#semana-2-1811---2411)
   - [Objetivo](#objetivo)
   - [Teoria](#teoria)
   - [Atividades](#atividades)
-- [Semana 3: 25/11 - 01/12](#semana-3-2511---0112)
-  - [Objetivo](#objetivo-1)
-  - [Teoria](#teoria-1)
-  - [Atividades](#atividades-1)
-- [Semana 4: 02/12 - 08/12](#semana-4-0212---0812)
-  - [Objetivo](#objetivo-2)
-  - [Teoria](#teoria-2)
-  - [Atividades](#atividades-2)
-- [Semana 5: 09/12 - 15/12](#semana-5-0912---1512)
-  - [Objetivo](#objetivo-3)
-  - [Teoria](#teoria-3)
-  - [Atividades](#atividades-3)
 
-## Semana 2: 18/11 - 24/11
+## Semana 2: 09/12 - 15-12
 
 ### Objetivo
 
@@ -33,7 +21,7 @@ Exemplo:
 
 -->
 
-> Configurar o ambiente de desenvolvimento e entender a estrutura de um projeto Django
+>
 
 ### Teoria
 
@@ -59,10 +47,7 @@ Exemplo:
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
 
-- `https://learn.microsoft.com/pt-br/windows/wsl/install`
-- `https://docs.docker.com/engine/install/`
-- `https://github.com/pyenv/pyenv`
-- `https://www.youtube.com/playlist?list=PLA05yVJtRWYSlQ5ZSI5N1wKRw_n-h42nt`
+-
 
 ### Atividades
 
@@ -96,11 +81,7 @@ Exemplo:
 
 -->
 
-- Instalar WSL2 no Windows
-- Instalar Docker
-- Instalar Pyenv
-- Assistir a Playlist
-- Fazer o tutorial Django Girls
+-
 - Reunião de Acompanhamento
 - Preenchimento do formulário de feedback da semana (Mentor e Menteee)
 
@@ -108,18 +89,17 @@ Exemplo:
 
 ### Objetivo
 
-> Finalizar as tarefas pendentes da última semana
+>
 
 ### Teoria
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
 
-- `https://www.youtube.com/playlist?list=PLA05yVJtRWYSlQ5ZSI5N1wKRw_n-h42nt`
+-
 
 ### Atividades
 
-- Terminar o tutorial Django Girls
-- Assistir section 25 Curso Django Rest Framework
+-
 - Reunião de Acompanhamento
 - Preenchimento do formulário de feedback da semana (Mentor e Menteee)
 
@@ -127,19 +107,17 @@ Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira ativi
 
 ### Objetivo
 
-> Finalizar as tarefas pendentes da última semana
+>
 
 ### Teoria
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
 
-- `https://github.com/cumbucadev/gitcaos`
+-
 
 ### Atividades
 
-- Terminar projeto API Rest
-- Fazer o Gitcaos
-- Trazer esboço de um projeto pessoal
+-
 - Reunião de Acompanhamento
 - Preenchimento do formulário de feedback da semana (Mentor e Menteee)
 
@@ -147,18 +125,16 @@ Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira ativi
 
 ### Objetivo
 
-> Finalizar as tarefas pendentes da última semana
+>
 
 ### Teoria
 
 Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
 
-- `https://github.com/cumbucadev/gitcaos`
+-
 
 ### Atividades
 
-- Terminar projeto API Rest
-- Fazer o Gitcaos
-- Trazer esboço de um projeto pessoal
+-
 - Reunião de Acompanhamento
 - Preenchimento do formulário de feedback da semana (Mentor e Menteee)

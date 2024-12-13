@@ -174,8 +174,6 @@ Prática: Criação de API com FastAPI.
 
 ### Objetivo
 
-Exercitar conceitos de desenvolvimento de APIs Web, utilizando o Python com FastAPI para demonstrar os conceitos. 
-
 ### Teoria
 
 - Livro: [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
