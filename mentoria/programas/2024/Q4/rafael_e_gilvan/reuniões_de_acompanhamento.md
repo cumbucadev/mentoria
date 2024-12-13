@@ -54,24 +54,18 @@ mentoria seja enriquecedora e eficaz.
 
 ## Reuniões
 
-### <data próxima reunião>
+### 12/12/2024 - Quinto Encontro
 
-<!-- Inserir informações relevantes -->
+Explorar conceitos e desenvolvimento de uma aplicação simples com React.
 
 #### Notas
 
-- Revisitar Ações das Reuniões Passadas
-- Temperatura (🧊 0 a 10 🔥)
-- Como foi desde a Última Reunião
-- Como está sendo a mentoria como um todo
-- Encerramento
+- Conseguimos completar a prática guiada para o desenvolvimento de uma aplicação simples com React.
 
 #### Ações
 
-<!-- Utilize esta seção para listar as tarefas acordadas durante a reunião. Acompanhe o status de
-cada ação e marque como concluída assim que for finalizada. -->
-
-- [] <!-- @<pessoa> realizar <tarefa X> -->
+- [] Exercitar e Explorar o React;
+- [] Realizar atividades propostas no [cronograma](cronograma_semana_2_a_5.md).
 
 ### 05/12/2024 - Quarto Encontro
 
