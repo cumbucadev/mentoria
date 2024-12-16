@@ -203,17 +203,34 @@ Criar docker para a rodar a aplicação.
 
 ## Semana 5: 09/12 - 15/12
 
+Prática: Criação de WebAPP com [ReactJS](https://react.dev/).
+
 ### Objetivo
 
->
+Exercitar conceitos de desenvolvimento de WebAPP, utilizando o React.
+
 ### Teoria
 
-Conteúdo(s) que deve(m) ser estudado(s) por Mentee até antes da primeira atividade da semana:
-
--
+- **Virtual DOM:** É uma representação leve da interface do usuário (UI) mantida na memória pelo React.
+- **Re-renderização do Virtual DOM:**
+  - Mudança no Estado ou Props: Quando algo no estado ou nas props muda, o React recria o Virtual DOM com base nos novos dados.
+  - Comparação (Diffing): O React compara o novo Virtual DOM com o anterior para encontrar as diferenças. Esse processo é chamado de Diffing Algorithm.
+  - Atualização do DOM Real: O React aplica as mudanças necessárias no DOM real, atualizando apenas os elementos que realmente precisam ser alterados.
+- **Componentes:** Unidades reutilizáveis de UI.
+  - Props: Dados passados de pai para filho (imutáveis).
+  - State: Dados locais do componente (mutáveis).
+- **Hooks:** Gerencia estado e efeitos em componentes.
+  - useState: Gerenciamento de estado interno.
+  - useEffect: Efeitos colaterais e ciclo de vida.
+  - Outros Hooks: useMemo, useCallback, useReducer, useContext.
+- **Stores:** Compartilhamento de estado entre múltiplos componentes.
+  - Bibliotecas populares:
+    - Redux.
+    - Zustand.
+    - MobX.
 
 ### Atividades
 
--
-- Reunião de Acompanhamento
-- Preenchimento do formulário de feedback da semana (Mentor e Menteee)
+- Implementar a rotina de marcar tarefa completa.
+- Buscar referências de utilização dos hooks do React.
+- Implementar alguma store para dados compartilhados entre componentes.
