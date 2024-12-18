@@ -21,6 +21,12 @@
   <!-- - [<data próxima reunião>](#)
     - [Notas](#notas)
     - [Ações](#ações) -->
+  - [18.12.2024](#18122024)
+    - [Notas](#notas)
+    - [Ações](#ações)
+  - [22.11.2024](#22112024)
+    - [Notas](#notas)
+    - [Ações](#ações)
   - [14.11.2024](#14112024)
     - [Expectativas em Relação ao Programa](#expectativas-em-relação-ao-programa)
     - [Estilo de Aprendizado](#estilo-de-aprendizado)
@@ -55,6 +61,28 @@ mentoria seja enriquecedora e eficaz.
 
 ## Reuniões
 
+### 18.12.2024
+
+#### Notas
+
+- Revisamos as Ações das Reunão Passada
+- 🐈🚶‍♀️❣️: deu tudo certo! Quer fazer mais vezes.
+- Vai dar uma pausa na aplicações de vagas por enquanto para focar nos trabalhos atuais.
+- O trabalho de apoio no bottcamp está bem proveitoso. Está sendo legal ajudar as pessoas e rever
+  tópicos que estudou anteriormente.
+- Ainda esperando resposta da oportunidade em Java.
+- Sentiu que melhorou da "água para vinho" as suas habilidades com git e github. Mentoria foi bacana
+  para o seu progresso.
+
+#### Ações
+
+- [ ] @laistdomiciano vai ficar responsável por aprovar e mergear os PRs do repo da mentoria.
+- [ ] @laistdomiciano anotar dúvidas que está tendo no seu trabalho sobre git e github.
+- [ ] @laistdomiciano guiar um pair de git e github para consolidar o aprendizado - depois de
+      voltarmos de férias.
+- [ ] @camilamaia retomar um novo ciclo de mentoria na segunda semana de Janeiro
+- [ ] @laistdomiciano trazer possíveis tópicos para o próximo ciclo de mentoria
+
 ### 22.11.2024
 
 #### Notas
@@ -87,10 +115,10 @@ mentoria seja enriquecedora e eficaz.
 Utilize esta seção para listar as tarefas acordadas durante a reunião. Acompanhe o status de cada
 ação e marque como concluída assim que for finalizada.
 
-- [ ] @laistdomiciano marcar próximo pair para terça feira
-- [ ] @laistdomiciano ver vídeos semana 1
-- [ ] @laistdomiciano ver vídeos semana 2
-- [ ] @camilamaia abrir PR com cronograma ajustado
+- [x] @laistdomiciano marcar próximo pair para terça feira
+- [x] @laistdomiciano ver vídeos semana 1
+- [x] @laistdomiciano ver vídeos semana 2
+- [x] @camilamaia abrir PR com cronograma ajustado
 
 ### 14.11.2024
 
