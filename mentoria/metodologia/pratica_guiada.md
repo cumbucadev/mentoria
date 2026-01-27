@@ -191,5 +191,5 @@ compreensão para a eficiência.
 
 **Ações**
 
-* [< Voltar para Exploração do Conteúdo](/mentoria/metodologia/exploração_do_conteúdo.md)
-* [Avançar para Prática Assistida >](/mentoria/metodologia/prática_assistida.md)
+* [< Voltar para Exploração do Conteúdo](/mentoria/metodologia/exploracao_do_conteudo.md)
+* [Avançar para Prática Assistida >](/mentoria/metodologia/pratica_assistida.md)

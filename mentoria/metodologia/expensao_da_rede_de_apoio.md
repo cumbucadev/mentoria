@@ -50,4 +50,4 @@ apoio da pessoa mentorada.
 
 **Ações:**
 
-- [< Voltar para Prática Independente](/mentoria/metodologia/prática_independente.md)
+- [< Voltar para Prática Independente](/mentoria/metodologia/pratica_independente.md)

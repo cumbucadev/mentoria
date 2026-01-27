@@ -21,17 +21,18 @@ jornada. O processo inclui um acompanhamento regular, uma curadoria de conteúdo
 independentes, além de contar com a construção de uma rede de apoio essencial para o crescimento
 pessoal e profissional.
 
-- [Fluxo de Mentoria](#fluxo-de-mentoria)
-  - [1. Reuniões de Acompanhamento](#1-reuniões-de-acompanhamento)
-  - [2. Teoria](#2-teoria)
-    - [2.1 Curadoria de Conteúdo](#21-curadoria-de-conteúdo)
-    - [2.2 Exploração do Conteúdo](#22-exploração-do-conteúdo)
-  - [3. Prática](#3-prática)
-    - [3.1 Prática Guiada](#31-prática-guiada)
-    - [3.2 Prática Assistida](#32-prática-assistida)
-    - [3.3 Prática Independente](#33-prática-independente)
-- [Apoios Complementares](#apoios-complementares)
-  - [Expansão da Rede de Apoio](#expansão-da-rede-de-apoio)
+- [Metodologia de Mentoria](#metodologia-de-mentoria)
+  - [Fluxo de Mentoria](#fluxo-de-mentoria)
+    - [1. Reuniões de Acompanhamento](#1-reuniões-de-acompanhamento)
+    - [2. Teoria](#2-teoria)
+      - [2.1 Curadoria de Conteúdo](#21-curadoria-de-conteúdo)
+      - [2.2 Exploração do Conteúdo](#22-exploração-do-conteúdo)
+    - [3. Prática](#3-prática)
+      - [3.1 Prática Guiada](#31-prática-guiada)
+      - [3.2 Prática Assistida](#32-prática-assistida)
+      - [3.3 Prática Independente](#33-prática-independente)
+  - [Apoios Complementares](#apoios-complementares)
+    - [Expansão da Rede de Apoio](#expansão-da-rede-de-apoio)
 
 ## Fluxo de Mentoria
 
@@ -115,4 +116,4 @@ complementares que ajudam a consolidar o aprendizado.
 
 **Ações:**
 
-- [Avançar para Reuniões de Acompanhamento >](/mentoria/metodologia/reuniões_de_acompanhamento.md)
+- [Avançar para Reuniões de Acompanhamento >](/mentoria/metodologia/reunioes_de_acompanhamento.md)
