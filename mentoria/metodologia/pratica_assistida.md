@@ -18,5 +18,5 @@
 
 **Ações:**
 
-- [< Voltar para Prática Guiada](/mentoria/metodologia/prática_guiada.md)
-- [Avaçar para Prática Independente >](/mentoria/metodologia/prática_independente.md)
+- [< Voltar para Prática Guiada](/mentoria/metodologia/pratica_guiada.md)
+- [Avaçar para Prática Independente >](/mentoria/metodologia/pratica_independente.md)

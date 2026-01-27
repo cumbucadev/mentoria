@@ -141,4 +141,4 @@ Esses sinais indicam que a base necessária foi construída e que é um bom mome
 **Ações:**
 
 * [< Voltar para Curadoria](/mentoria/metodologia/curadoria.md)
-* [Avançar para Prática Guiada >](/mentoria/metodologia/prática_guiada.md)
+* [Avançar para Prática Guiada >](/mentoria/metodologia/pratica_guiada.md)

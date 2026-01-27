@@ -16,27 +16,29 @@
 
 # Reuniões de Acompanhamento
 
-- [Objetivo](#objetivo)
-- [Primeira Reunião](#primeira-reunião)
-  - [Pré-reunião](#pré-reunião)
-  - [Início da Reunião](#início-da-reunião)
-  - [Compartilhando Sobre você](#compartilhando-sobre-você)
-  - [Conhecendo a Pessoa Mentorada](#conhecendo-a-pessoa-mentorada)
-  - [Compartilhando o Quê Você Procura no Programa de Mentorias](#compartilhando-o-quê-você-procura-no-programa-de-mentorias)
-  - [Explorando os Objetivos da Pessoa no Programa de Mentorias](#explorando-os-objetivos-da-pessoa-no-programa-de-mentorias)
-  - [Mostrando as Suas Dificuldades e Vulnerabilidades](#mostrando-as-suas-dificuldades-e-vulnerabilidades)
-  - [Entendendo as Dificuldades da Pessoa Mentorada](#entendendo-as-dificuldades-da-pessoa-mentorada)
-  - [Entendendo a Forma de Aprendizado da Pessoa Mentorada](#entendendo-a-forma-de-aprendizado-da-pessoa-mentorada)
-  - [Compartilhe Como É Sua Abordagem de Ensino](#compartilhe-como-é-sua-abordagem-de-ensino)
-  - [Encerramento](#encerramento)
-  - [O Que Não Fazer em uma Primeira Reunião de Acompanhamento](#o-que-não-fazer-em-uma-primeira-reunião-de-acompanhamento)
-- [Reuniões de Acompanhamento Contínuas (Demais Reuniões)](#reuniões-de-acompanhamento-contínuas-demais-reuniões)
-  - [Pré-reunião](#pré-reunião-1)
-  - [Revisitar Ações das Reuniões Passadas](#revisitar-ações-das-reuniões-passadas)
-  - [Medir Temperatura](#medir-temperatura)
-  - [Explorar o Progresso Desde a Última Reunião](#explorar-o-progresso-desde-a-última-reunião)
-  - [Explorar o Progresso da Mentoria Como um Todo](#explorar-o-progresso-da-mentoria-como-um-todo)
-  - [Encerramento](#encerramento-1)
+- [Reuniões de Acompanhamento](#reuniões-de-acompanhamento)
+  - [Objetivo](#objetivo)
+  - [Primeira Reunião](#primeira-reunião)
+    - [Pré-reunião](#pré-reunião)
+    - [Início da Reunião](#início-da-reunião)
+    - [Compartilhando Sobre você](#compartilhando-sobre-você)
+    - [Conhecendo a Pessoa Mentorada](#conhecendo-a-pessoa-mentorada)
+    - [Compartilhando o Quê Você Procura no Programa de Mentorias](#compartilhando-o-quê-você-procura-no-programa-de-mentorias)
+    - [Explorando os Objetivos da Pessoa no Programa de Mentorias](#explorando-os-objetivos-da-pessoa-no-programa-de-mentorias)
+    - [Mostrando as Suas Dificuldades e Vulnerabilidades](#mostrando-as-suas-dificuldades-e-vulnerabilidades)
+    - [Entendendo as Dificuldades da Pessoa Mentorada](#entendendo-as-dificuldades-da-pessoa-mentorada)
+    - [Entendendo a Forma de Aprendizado da Pessoa Mentorada](#entendendo-a-forma-de-aprendizado-da-pessoa-mentorada)
+    - [Compartilhe Como É Sua Abordagem de Ensino](#compartilhe-como-é-sua-abordagem-de-ensino)
+    - [Encerramento](#encerramento)
+    - [O Que Não Fazer em uma Primeira Reunião de Acompanhamento](#o-que-não-fazer-em-uma-primeira-reunião-de-acompanhamento)
+  - [Reuniões de Acompanhamento Contínuas (Demais Reuniões)](#reuniões-de-acompanhamento-contínuas-demais-reuniões)
+  - [Reuniões de Acompanhamento Contínuas](#reuniões-de-acompanhamento-contínuas)
+    - [Pré-reunião](#pré-reunião-1)
+    - [Revisitar Ações das Reuniões Passadas](#revisitar-ações-das-reuniões-passadas)
+    - [Medir Temperatura](#medir-temperatura)
+    - [Explorar o Progresso Desde a Última Reunião](#explorar-o-progresso-desde-a-última-reunião)
+    - [Explorar o Progresso da Mentoria Como um Todo](#explorar-o-progresso-da-mentoria-como-um-todo)
+    - [Encerramento](#encerramento-1)
 
 ## Objetivo
 
@@ -63,7 +65,7 @@ lógica:
 1. **Crie um documento de acompanhamento das mentorias**: É importante manter um registro de todas
    as sessões de mentoria em um documento. Você pode armazená-lo na pasta de mentoria do programa\*.
    Para facilitar, disponibilizamos este
-   [template](/mentoria/metodologia/template_reuniões_de_acompanhamento.md) que pode ser utilizado
+   [template](/mentoria/metodologia/template_reunioes_de_acompanhamento.md) que pode ser utilizado
    como base.
 
    _\*Caso você e/ou a pessoa mentorada não queira(m) deixar o documento público, fique à vontade_

@@ -18,5 +18,5 @@
 
 **Ações:**
 
-- [< Voltar para Prática Assistida](/mentoria/metodologia/prática_assistida.md)
-- [Avaçar para Expansão da Rede de Apoio >](/mentoria/metodologia/expensão_da_rede_de_apoio.md)
+- [< Voltar para Prática Assistida](/mentoria/metodologia/pratica_assistida.md)
+- [Avaçar para Expansão da Rede de Apoio >](/mentoria/metodologia/expensao_da_rede_de_apoio.md)

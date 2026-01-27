@@ -17,10 +17,11 @@
 Agora que já definimos os temas de estudo para as próximas etapas da mentoria, é hora de começar
 pela base teórica e construir uma estrutura sólida de conhecimento.
 
-- [Objetivo](#objetivo)
-- [Motivação](#motivação)
-- [Critérios para uma Curadoria Eficiente de Conteúdos](#critérios-para-uma-curadoria-eficiente-de-conteúdos)
-- [Curadoria Coletiva Cumbuca Dev](#curadoria-coletiva-cumbuca-dev)
+- [Curadoria](#curadoria)
+  - [Objetivo](#objetivo)
+  - [Motivação](#motivação)
+  - [Critérios para uma Curadoria Eficiente de Conteúdos](#critérios-para-uma-curadoria-eficiente-de-conteúdos)
+  - [Curadoria Coletiva Cumbuca Dev](#curadoria-coletiva-cumbuca-dev)
 
 ## Objetivo
 
@@ -157,5 +158,5 @@ aprendizado mais prazerosa.
 
 **Ações:**
 
-- [< Voltar para Reuniões de Acompanhamento](/mentoria/metodologia/reuniões_de_acompanhamento.md)
-- [Avaçar para Exploração do Conteúdo >](/mentoria/metodologia/exploração_do_conteúdo.md)
+- [< Voltar para Reuniões de Acompanhamento](/mentoria/metodologia/reunioes_de_acompanhamento.md)
+- [Avaçar para Exploração do Conteúdo >](/mentoria/metodologia/exploracao_do_conteudo.md)
