@@ -73,7 +73,7 @@ Desenvolver habilidades técnicas e interpessoais fundamentais por meio do uso d
 
 * **Escolher um repositório e uma issue**: Selecionar um repositório relevante e uma issue específica para a sessão, considerando o nível e os objetivos de aprendizado.
 * **Preparar o ambiente local**: Configurar o ambiente de desenvolvimento e fechar fontes de possíveis distrações, como aplicativos e notificações.
-* **Reservar um tempo para se concentrar**: Tirar pelo menos dez minutos antes da reunião para focar na próxima atividade. Quanto mais relaxada e ciente do que precisa ser feito, mais segurança e tranquilidade transmitir à pessoa mentorada. Considerar marcar um evento no calendário dez minutos antes do encontro para evitar esquecimentos.
+* **Reservar um tempo para se concentrar**: Tirar pelo menos dez minutos antes da reunião para focar na próxima atividade. Quanto mais relaxada e ciente do que precisa ser feito, mais segurança e tranquilidade transmitirá à pessoa mentorada. Considerar marcar um evento no calendário dez minutos antes do encontro para evitar esquecimentos.
 
 ### Para a Pessoa Mentorada
 
