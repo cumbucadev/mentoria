@@ -114,6 +114,8 @@ pessoal e profissional.
 A seguir, vamos detalhar como o processo se organiza, incluindo o fluxo de mentoria e os apoios
 complementares que ajudam a consolidar o aprendizado.
 
+---
+
 **Ações:**
 
 - [Avançar para Reuniões de Acompanhamento >](/mentoria/metodologia/reunioes_de_acompanhamento.md)
