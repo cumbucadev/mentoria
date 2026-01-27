@@ -17,9 +17,8 @@
 Este documento descreve a metodologia de ensino para mentorias da Cumbuca Devque combina um fluxo
 estruturado de aprendizado com apoios complementares. A metodologia é projetada para promover o
 desenvolvimento contínuo e garantir que a pessoa mentorada avance com confiança e autonomia em sua
-jornada. O processo inclui um acompanhamento regular, uma curadoria de conteúdo, práticas guiadas e
-independentes, além de contar com a construção de uma rede de apoio essencial para o crescimento
-pessoal e profissional.
+jornada. O processo inclui um acompanhamento regular, uma curadoria de conteúdo, práticas guiadas,
+assistidas e independentes, além de contar com a construção de uma rede de apoio essencial para o crescimento pessoal e profissional.
 
 - [Metodologia de Mentoria](#metodologia-de-mentoria)
   - [Fluxo de Mentoria](#fluxo-de-mentoria)
@@ -36,12 +35,64 @@ pessoal e profissional.
 
 ## Fluxo de Mentoria
 
-O processo de mentoria segue um fluxo contínuo, começando com uma etapa de **acompanhamento** para
-entender as necessidades da pessoa mentorada e definir os temas de aprendizado. A partir disso, cada
-tem a ser estudado é abordado através de **teoria** e **prática**. Abaixo, estão os passos
-detalhados de cada etapa.
+O processo de mentoria segue um fluxo cíclico e contínuo. Ele começa com uma etapa de
+acompanhamento, cujo objetivo é compreender o momento da pessoa mentorada, identificar
+dificuldades, alinhar expectativas e definir qual será o próximo tema de aprendizado.
+
+A partir dessa definição, estabelece-se um período de estudo para aquele tema, de acordo com a
+disponibilidade das pessoas envolvidas. Como referência, cada ciclo costuma demandar cerca de
+4 horas da pessoa mentora e 8 horas da pessoa mentorada, mas esses números são apenas uma
+recomendação, não uma regra — podendo variar conforme o tema, o ritmo e o contexto de cada
+mentoria.
+
+Durante esse período, o tema é trabalhado por meio de teoria e prática.
+
+Na teoria, a pessoa mentora realiza a curadoria de materiais relevantes, enquanto a pessoa
+mentorada faz a exploração desses conteúdos, construindo entendimento antes de partir para o
+código.
+
+Na prática, o tema é exercitado por meio das diferentes modalidades de prática — guiada, assistida
+e independente — conectando o que foi estudado a problemas reais.
+
+Ao final desse período, acontece uma nova reunião de acompanhamento. Nela, mentora e mentorada
+avaliam o que foi aprendido, quais pontos ainda geram insegurança e se o tema está suficientemente
+consolidado. A partir disso, decide-se se o ciclo segue para um novo tema ou se o mesmo conteúdo
+precisa de mais um ciclo de teoria e prática.
+
+Esse processo se repete continuamente, criando um ritmo de aprendizado baseado em
+avaliar → escolher → estudar → praticar → avaliar → …
 
 ![Diagrama do Fluxo de Mentoria, detalhando cada etapa](/assets/Fluxo%20da%20Mentoria.png)
+
+A distribuição típica do tempo para cada ciclo é:
+
+* **Pessoa mentora (≈ 4h)**
+  * **Reunião de acompanhamento** (≈ 1h) — avaliar o ciclo anterior, identificar dificuldades e
+    definir o próximo tema.
+  * **Curadoria de conteúdo** (≈ 30min) — selecionar materiais, exemplos e referências adequados ao
+    tema e ao nível da pessoa mentorada.
+  * **Sessão de prática guiada** (≈ 1h) — conduzir a execução, modelando raciocínio e processo.
+  * **Sessão de prática assistida** (≈ 1h) — acompanhar a execução, orientar e intervir quando
+    necessário.
+  * **Revisão e feedback** (≈ 30min) — revisar código, pull requests ou entregas e apontar próximos
+    passos.
+
+* **Pessoa mentorada (≈ 8h)**
+  * **Reunião de acompanhamento** (≈ 1h) — refletir sobre o ciclo anterior e alinhar o próximo foco.
+  * **Exploração de conteúdo** (≈ 2h) — ler, assistir, estudar e construir entendimento sobre o tema.
+  * **Sessão de prática guiada** (≈ 1h) — observar, acompanhar e entender o processo da pessoa mentora.
+  * **Sessão de prática assistida** (≈ 1h) — conduzir a execução com suporte próximo.
+  * **Prática independente** (≈ 2h) — implementar, testar, errar, ajustar e tentar novamente de forma
+    autônoma.
+  * **Revisão e ajustes** (≈ 1h) — aplicar feedback, refinar a solução e consolidar o aprendizado.
+
+_Esses números não servem para medir desempenho, mas para **garantir que o tempo esteja
+intencionalmente concentrado em quem aprende**._
+
+É importante reforçar que esse fluxo é flexível por definição. Alguns temas exigem mais tempo,
+mais sessões práticas ou mais de um ciclo completo. Outros avançam mais rápido. O modelo existe
+para dar estrutura e previsibilidade, mas sempre deve se adaptar ao contexto, aos objetivos e ao
+momento de cada pessoa mentorada.
 
 ### 1. Reuniões de Acompanhamento
 
