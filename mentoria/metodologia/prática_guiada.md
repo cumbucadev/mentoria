@@ -14,201 +14,182 @@
 
 # Prática Guiada
 
-A Prática Guiada é uma fase em que a pessoa mentora conduz o aprendizado, realizando o trabalho
-enquanto explica o processo de forma clara e didática. Nessa etapa, a pessoa mentora é responsável
-por todo o código, mas a pessoa mentorada acompanha atentamente, aprendendo com cada decisão tomada.
+A Prática Guiada é uma fase em que a pessoa mentora conduz o aprendizado, realizando o trabalho enquanto explica o processo de forma clara e didática. Nessa etapa, a pessoa mentora é responsável por todo o código, mas a pessoa mentorada acompanha atentamente, aprendendo com cada decisão tomada.
 
-- [Objetivos](#objetivos)
+- [Prática Guiada](#prática-guiada)
+  - [Objetivos](#objetivos)
   - [Prática com Open Source](#prática-com-open-source)
   - [Duração](#duração)
   - [Pré-Reunião](#pré-reunião)
-    - [Escolha um Repositório e uma Issue](#escolha-um-repositório-e-uma-issue)
-    - [Prepare o seu Ambiente Local](#prepare-o-seu-ambiente-local)
-    - [Reserve um tempo para se concentrar](#reserve-um-tempo-para-se-concentrar)
+    - [Para a Pessoa Mentora](#para-a-pessoa-mentora)
+    - [Para a Pessoa Mentorada](#para-a-pessoa-mentorada)
   - [Início da Reunião](#início-da-reunião)
-  - [Contextualização do Open Source](#contextualização-do-open-source)
-  - [Apresentação do Repositório](#apresentação-do-repositório)
-  - [Apresentação da Issue](#apresentação-da-issue)
+    - [Para a Pessoa Mentora](#para-a-pessoa-mentora-1)
+      - [Contextualização do Open Source](#contextualização-do-open-source)
+      - [Apresentação do Repositório](#apresentação-do-repositório)
+      - [Apresentação da Issue](#apresentação-da-issue)
+    - [Para a Pessoa Mentorada](#para-a-pessoa-mentorada-1)
   - [Durante o pareamento](#durante-o-pareamento)
-    - [Ritmo](#ritmo)
-    - [Incentive a Experimentação](#incentive-a-experimentação)
-    - [Incentive Perguntas](#incentive-perguntas)
-    - [Mostre suas Vulnerabilidade](#mostre-suas-vulnerabilidade)
-    - [Peça feedbacks](#peça-feedbacks)
+    - [Para a Pessoa Mentora](#para-a-pessoa-mentora-2)
+      - [Ritmo](#ritmo)
+      - [Incentivar a Experimentação](#incentivar-a-experimentação)
+      - [Incentivar Perguntas](#incentivar-perguntas)
+      - [Mostrar suas Vulnerabilidades](#mostrar-suas-vulnerabilidades)
+      - [Pedir feedbacks](#pedir-feedbacks)
+      - [Tentar evitar](#tentar-evitar)
+    - [Para a Pessoa Mentorada](#para-a-pessoa-mentorada-2)
   - [Encerramento](#encerramento)
+    - [Para a Pessoa Mentora](#para-a-pessoa-mentora-3)
+    - [Para a Pessoa Mentorada](#para-a-pessoa-mentorada-3)
 
 ## Objetivos
 
-- **Demonstrar a prática no código**: A pessoa mentora vai ser responsável por resolver problemas,
-  implementar funcionalidades e navegar pelo código, enquanto explica passo a passo o que está
-  fazendo.
-- **Modelar o processo de resolução de problemas**: Mostrar à pessoa mentorada como abordar um
-  desafio de forma lógica e estruturada.
-- **Explicar a teoria aplicada**: Durante a execução do código, a mentora explicará os conceitos e
-  decisões técnicas envolvidas, contextualizando tudo o que está sendo feito de forma acessível.
+* **Demonstrar a prática no código**: Demonstrar a resolução de problemas, a implementação de funcionalidades e a navegação pelo código, enquanto explicar passo a passo o que está sendo feito.
+* **Modelar o processo de resolução de problemas**: Mostrar como abordar um desafio de forma lógica e estruturada.
+* **Explicar a teoria aplicada**: Explicar os conceitos e decisões técnicas envolvidas durante a execução do código, contextualizando tudo o que está sendo feito de forma acessível.
 
 ## Prática com Open Source
 
-Nas sessões práticas, utilizaremos projetos open source para trazer uma experiência de aprendizado
-rica e com forte aplicação no mundo real. O open source expõe a pessoa mentorada a desafios e
-práticas que são altamente valorizados em qualquer carreira na tecnologia, como:
+Utilizar projetos open source para trazer uma experiência de aprendizado rica e com forte aplicação no mundo real. O open source expor a pessoa mentorada a desafios e práticas altamente valorizados em qualquer carreira na tecnologia, incluindo:
 
-- Desenvolvimento de Portfólio: Contribuir para repositórios públicos adiciona credibilidade ao
-  portfólio e permite comprovar habilidades, que podem ser demonstradas em processos seletivos.
-- Experiência em Código Real: Trabalhar em projetos utilizados por outras pessoas oferece uma visão
-  do impacto de cada linha de código, estimulando o cuidado e a responsabilidade com o que se
-  produz.
-- Boas Práticas e Padrões Comuns: A participação em projetos open source permite contato direto com
-  práticas amplamente aceitas, como controle de versão, documentação e arquitetura de software.
-- Habilidades de Colaboração e Comunicação: A pessoa mentorada aprende a revisar e discutir código
-  com outras pessoas, ampliando suas habilidades de colaboração e resolução de conflitos.
-- Navegação e Adaptação ao Código Legado: Aprender a entender e modificar código existente é um
-  diferencial que, além de valorizar o profissional, o prepara para projetos complexos.
-- Networking e Desenvolvimento Profissional: O open source é um excelente ambiente para conhecer
-  outros desenvolvedores e construir uma rede de apoio e colaboração.
+* **Desenvolvimento de Portfólio**: Contribuir para repositórios públicos, adicionar credibilidade ao portfólio e permitir comprovar habilidades demonstráveis em processos seletivos.
+* **Experiência em Código Real**: Trabalhar em projetos utilizados por outras pessoas, oferecendo uma visão do impacto de cada linha de código e estimulando o cuidado e a responsabilidade com o que se produz.
+* **Boas Práticas e Padrões Comuns**: Permitir contato direto com práticas amplamente aceitas, como controle de versão, documentação e arquitetura de software.
+* **Habilidades de Colaboração e Comunicação**: Aprender a revisar e discutir código com outras pessoas, ampliando habilidades de colaboração e resolução de conflitos.
+* **Navegação e Adaptação ao Código Legado**: Aprender a entender e modificar código existente, valorizando o profissional e preparando para projetos complexos.
+* **Networking e Desenvolvimento Profissional**: Utilizar o open source como ambiente para conhecer outros desenvolvedores e construir uma rede de apoio e colaboração.
 
-O uso de open source na prática guiada desenvolve habilidades técnicas e interpessoais fundamentais,
-preparando a pessoa mentorada para uma atuação sólida em equipes reais.
+Desenvolver habilidades técnicas e interpessoais fundamentais por meio do uso de open source, preparando a pessoa mentorada para uma atuação sólida em equipes reais.
 
 ## Duração
 
-- Recomendação: 1 hora, no máximo 1 hora e 20 minutos.
-- Esse limite ajuda a evitar fadiga e falta de concentração.
-- Mesmo que estejam focados em resolver uma issue, é melhor pausar e retomar depois, com energia
-  renovada e prontidão para resolver novos problemas.
+* Recomendar duração de 1 hora, no máximo 1 hora e 20 minutos.
+* Utilizar esse limite para evitar fadiga e perda de concentração.
+* Pausar a sessão mesmo que ainda haja uma issue em andamento, retomando em outro encontro com energia renovada e prontidão para resolver novos problemas.
 
 ## Pré-Reunião
 
-### Escolha um Repositório e uma Issue
+### Para a Pessoa Mentora
 
-Escolha um repositório relevante e uma issue específica para a sessão, considerando o nível e os
-objetivos de aprendizado.
+* **Escolher um repositório e uma issue**: Selecionar um repositório relevante e uma issue específica para a sessão, considerando o nível e os objetivos de aprendizado.
+* **Preparar o ambiente local**: Configurar o ambiente de desenvolvimento e fechar fontes de possíveis distrações, como aplicativos e notificações.
+* **Reservar um tempo para se concentrar**: Tirar pelo menos dez minutos antes da reunião para focar na próxima atividade. Quanto mais relaxada e ciente do que precisa ser feito, mais segurança e tranquilidade transmitir à pessoa mentorada. Considerar marcar um evento no calendário dez minutos antes do encontro para evitar esquecimentos.
 
-### Prepare o seu Ambiente Local
+### Para a Pessoa Mentorada
 
-- Configure o ambiente para o desenvolvimento.
-- Feche distrações (apps, notificações).
-
-### Reserve um tempo para se concentrar
-
-Tire pelo menos dez minutos antes da reunião para se focar na sua próxima atividade. Quanto mais
-relaxada e ciente do que precisa ser feito, mais segurança e tranquilidade transmitirá à pessoa
-mentorada. Considere marcar um evento no seu calendário 10 minutos antes do encontro para evitar
-esquecimentos.
+* **Apenas comparecer**: Comparecer à sessão no horário marcado, pronta para observar e aprender, sem necessidade de qualquer preparação prévia.
 
 ## Início da Reunião
 
-- Explique o objetivo da reunião.
-- Informe quais temas teóricos serão abordados durante a prática.
+### Para a Pessoa Mentora
 
-## Contextualização do Open Source
+* Explicar o objetivo da reunião.
+* Informar quais temas teóricos serão abordados durante a prática.
 
-- Caso a pessoa mentorada ainda não tenha tido contato com o Open Source, esplique o quê é e por que
-  irá ser utilizado para as sessões práticas
+#### Contextualização do Open Source
 
-## Apresentação do Repositório
+* Explicar o que é open source e por que ele será utilizado nas sessões práticas, caso a pessoa mentorada ainda não tenha tido contato com esse tipo de projeto.
 
-- Apresente o repositório escolhido para a sessão.
-- Explique por que este repositório foi selecionado.
-- Descreva o objetivo e as principais funcionalidades do repositório.
-- Dê uma visão geral da arquitetura: explique as pastas principais sem entrar em muitos detalhes,
-  para que a pessoa tenha uma visão geral do projeto.
+#### Apresentação do Repositório
 
-## Apresentação da Issue
+* Apresentar o repositório escolhido para a sessão.
+* Explicar por que esse repositório foi selecionado.
+* Descrever o objetivo e as principais funcionalidades do repositório.
+* Dar uma visão geral da arquitetura, explicando as pastas principais sem entrar em muitos detalhes, para fornecer uma visão geral do projeto.
 
-- Apresente a issue escolhida para a sessão.
-- Explique por que essa issue foi selecionada.
-- Detalhe o que a issue exige que seja feito.
+#### Apresentação da Issue
+
+* Apresentar a issue escolhida para a sessão.
+* Explicar por que essa issue foi selecionada.
+* Detalhar o que a issue exige que seja feito.
+
+### Para a Pessoa Mentorada
+
+* **Apenas seguir**: Acompanhar a apresentação do repositório e da issue, ouvir as explicações e seguir o fluxo da sessão, focando em observar, entender e aprender.
 
 ## Durante o pareamento
 
-### Ritmo
+### Para a Pessoa Mentora
 
-Foque no aprendizado em vez de terminar a issue. Adapte o ritmo conforme o feedback da pessoa
-mentorada e incentive a compreensão do processo acima da velocidade. É comum que não haja tempo de
-resolver tudo em uma sessão, mas pode-se continuar em um próximo encontro.
+#### Ritmo
 
-**Pontos para Reforçar com a Pessoa Mentorada:**
+Focar no aprendizado em vez de terminar a issue. Adaptar o ritmo conforme o feedback da pessoa mentorada e incentivar a compreensão do processo acima da velocidade. Reconhecer que é comum não haver tempo para resolver tudo em uma sessão e que é possível continuar em um próximo encontro.
 
-- _"O objetivo é aprender e adaptar um processo de aprendizado que funcione para você, não_
-  _necessariamente resolver a issue por completo."_
-- _"O processo é mais importante do que a velocidade. Compreender o método de aprendizado_
-  _inicialmente ajuda a acelerar o aprendizado depois."_
-- _"O ritmo está bom? Quer que vá mais rápido ou devagar?"_ - e vá adaptando o ritmo conforme
-  necessário.
-- _"Vou explicar X do início. Caso já saiba, me avise que vamos avançando."_ - assim você não
-  precisa assumir nenhum conhecimento e consegue pular o quê já é de domínio da pessoa.
-- _"Eu sei que você deve estar com ansiedade de querer aprender tudo para ontem. Mas se entendemos_
-  _o processo com calma e firmamos uma metodologia legal de início, depois o aprendizado vai ser_
-  _cada vez mais rápido_"
+**Pontos para reforçar com a pessoa mentorada**
 
-### Incentive a Experimentação
+* “O objetivo é aprender e adaptar um processo de aprendizado que funcione para você, não necessariamente resolver a issue por completo.”
+* “O processo é mais importante do que a velocidade. Compreender o método de aprendizado inicialmente ajuda a acelerar o aprendizado depois.”
+* “O ritmo está bom? Ir mais rápido ou mais devagar?” e adaptar o ritmo conforme necessário.
+* “Explicar X do início. Caso já saiba, avisar para avançar”, para não assumir conhecimento prévio e permitir pular o que já é de domínio da pessoa.
+* “Reconhecer a ansiedade de querer aprender tudo rápido, mas reforçar que entender o processo com calma e firmar uma metodologia no início acelera o aprendizado ao longo do tempo.”
 
-- Deixe claro que é seguro experimentar: qualquer erro pode ser corrigido, e a prática sem medo é um
-  passo essencial para o aprendizado. O foco está em aprender e crescer, e o erro faz parte do
-  processo.
-- Estimule a liberdade para explorar: enfatize que tentar e errar é tão valioso quanto acertar. Isso
-  é especialmente importante para pessoas de grupos minoritários, que frequentemente enfrentam mais
-  pressão para evitar falhas.
-- Para reforçar essa ideia, compartilhe exemplos de erros comuns e mostre que mesmo situações
-  desafiadoras não são insuperáveis.
+#### Incentivar a Experimentação
 
-### Incentive Perguntas
+* Deixar claro que é seguro experimentar, que qualquer erro pode ser corrigido e que a prática sem medo é essencial para o aprendizado.
+* Estimular a liberdade para explorar, enfatizando que tentar e errar é tão valioso quanto acertar, especialmente para pessoas de grupos minoritários que frequentemente enfrentam mais pressão para evitar falhas.
+* Compartilhar exemplos de erros comuns e mostrar que mesmo situações desafiadoras não são insuperáveis.
 
-- Reforce que **não existem perguntas "bobas"**.
-- Muitas vezes utilizamos termos ou conceitos técnicos que já estamos habituados, porém são novos
-  para a pessoa. Por isso, deixe claro desde o início para a pessoa que isso pode ocorrer, mas que
-  ela pode se sentir a vontade em interromper e perguntar o quê não entender.
+#### Incentivar Perguntas
 
-### Mostre suas Vulnerabilidade
+* Reforçar que não existem perguntas “bobas”.
+* Reconhecer que termos e conceitos técnicos podem ser novos e deixar claro desde o início que a pessoa pode interromper e perguntar sempre que algo não estiver claro.
 
-- Compartilhe sua própria experiência de aprendizado, especialmente no início da carreira, para
-  mostrar que você também enfrentou dificuldades. Isso cria empatia.
-- A informalidade ajuda a quebrar barreiras. Ser muito formal pode criar uma distância entre vocês.
-- Ser aberto sobre suas vulnerabilidades ajuda a criar uma conexão mais genuína.
-- Deixe claro que em muitos casos, você talvez também não saiba imediatamente como resolver uma
-  questão técnica. Mas que trabalhar juntos para descobrir é uma oportunidade para criar valor real
-  na mentoria.
+#### Mostrar suas Vulnerabilidades
 
-### Peça feedbacks
+* Compartilhar experiências próprias de aprendizado, especialmente do início da carreira, para mostrar que dificuldades são comuns.
+* Utilizar informalidade para quebrar barreiras e evitar criar distância.
+* Ser aberto sobre vulnerabilidades para criar uma conexão mais genuína.
+* Deixar claro que nem sempre será possível saber imediatamente como resolver uma questão técnica, e que investigar juntos também cria valor.
 
-- Peça feedbacks regulares durante a sessão. Pergunte se o que foi discutido está claro, se a
-  experiência está sendo divertida ou desafiadora, e como a pessoa mentorada está se sentindo.
+#### Pedir feedbacks
 
-**Exemplos de perguntas:**
+* Pedir feedbacks regulares durante a sessão, perguntando se o que foi discutido está claro, se a experiência está sendo divertida ou desafiadora e como a pessoa mentorada está se sentindo.
 
-- Do que fizemos até aqui, está fazendo sentido?
-- Está sendo divertido? Está sendo estressante? Desafiador? Como está sendo a experiência para você?
+**Exemplos de perguntas**
+
+* “Do que fizemos até aqui, está fazendo sentido?”
+* “Está sendo divertido, estressante ou desafiador? Como está sendo a experiência para você?”
+
+#### Tentar evitar
+
+* Utilizar e ensinar atalhos de teclado ao introduzir conteúdos novos.
+* Trocar de tela rapidamente.
+
+Essas recomendações existem para reduzir a carga cognitiva, facilitar o acompanhamento e evitar que a velocidade na navegação atrapalhe a compreensão do processo.
+
+O ensino de atalhos de teclado deve ser introduzido quando a pessoa mentorada já estiver realizando
+o processo manualmente de forma sistemática e quase automática, permitindo que o foco migre da
+compreensão para a eficiência.
+
+### Para a Pessoa Mentorada
+
+* Acompanhar atentamente tudo o que estiver sendo feito.
+* Observar as decisões, os comandos e os passos da pessoa mentora.
+* Fazer perguntas sempre que algo não estiver claro.
+* Aproveitar o espaço seguro para errar, experimentar e aprender.
+* Compartilhar sensações de confusão, cansaço, empolgação ou dificuldade quando necessário, para permitir ajuste de ritmo.
 
 ## Encerramento
 
-- Resuma os principais pontos: Revise brevemente os tópicos discutidos durante a sessão, destacando
-  os principais aprendizados e decisões.
+### Para a Pessoa Mentora
 
-- Defina os próximos passos: Esclareça quais ações serão tomadas antes da próxima reunião.
+* **Resumir os principais pontos**: Revisar brevemente os tópicos discutidos durante a sessão, destacando os principais aprendizados e decisões.
+* **Definir os próximos passos**: Esclarecer quais ações serão tomadas antes da próxima reunião.
+* **Perguntar se há algo mais a ser discutido**: Dar à pessoa mentorada a oportunidade de compartilhar qualquer outro assunto ou preocupação que gostaria de abordar, mas que não teve a chance durante a reunião.
+* **Solicitar feedback sobre a reunião**: Perguntar como a pessoa mentorada se sentiu e se algo poderia ser melhorado.
+* **Reforçar o apoio contínuo**: Lembrar que você está disponível para suporte e orientação entre as reuniões e incentivar contato em caso de dúvidas.
+* **Marcar a próxima sessão**: Agendar a próxima sessão antes de encerrar, caso ainda não tenha sido feito.
+* **Agradecer pelo tempo e pela participação**: Expressar gratidão pela presença e pela disposição em compartilhar experiências.
+* **Deixar uma mensagem de motivação**: Encerrar com palavras encorajadoras para continuar o desenvolvimento.
 
-- Pergunte se há algo mais a ser discutido: Dê à pessoa mentorada a oportunidade de compartilhar
-  qualquer outro assunto ou preocupação que ela gostaria de abordar, mas que não teve a chance
-  durante a reunião.
+### Para a Pessoa Mentorada
 
-- Solicite feedback sobre a reunião: Pergunte à pessoa mentorada como ela se sentiu em relação à
-  reunião e se há algo que poderia ser melhorado.
+* Confirmar entendimento dos próximos passos.
+* Compartilhar qualquer outro tema, dúvida ou preocupação.
+* Fornecer feedback sobre a reunião.
+* Registrar a data e o horário da próxima sessão.
 
-- Reforce o apoio contínuo: Lembre a pessoa mentorada de que você está disponível para suporte e
-  orientação entre as reuniões. Incentive-a a entrar em contato se tiver dúvidas ou precisar de
-  ajuda adicional.
+**Ações**
 
-- Marque a próxima sessão: Se ainda não tiver feito, agende a próxima sessão antes de encerrar.
-
-- Agradeça pelo tempo e pela participação: Expresse sua gratidão pela presença e pela disposição da
-  pessoa mentorada em compartilhar suas experiências.
-
-- Deixe uma mensagem de motivação: Encerre com palavras encorajadoras que inspirem a pessoa
-  mentorada a continuar seu desenvolvimento.
-
----
-
-**Ações:**
-
-- [< Voltar para Exploração do Conteúdo](/mentoria/metodologia/exploração_do_conteúdo.md)
-- [Avaçar para Prática Assistida >](/mentoria/metodologia/prática_assistida.md)
+* [< Voltar para Exploração do Conteúdo](/mentoria/metodologia/exploração_do_conteúdo.md)
+* [Avançar para Prática Assistida >](/mentoria/metodologia/prática_assistida.md)
