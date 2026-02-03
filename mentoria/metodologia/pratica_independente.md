@@ -181,4 +181,4 @@ conjunto (de maneira síncrona ou assíncrona - como preferirem), devem:
 **Ações**
 
 * [< Voltar para Prática Assistida](/mentoria/metodologia/prática_assistida.md)
-* [Avaçar para Expansão da Rede de Apoio >](/mentoria/metodologia/expensao_da_rede_de_apoio.md)
+* [Avaçar para Expansão da Rede de Apoio >](/mentoria/metodologia/expansao_da_rede_de_apoio.md)
