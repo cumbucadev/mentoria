@@ -167,7 +167,7 @@ A seguir, vamos detalhar como o processo se organiza, incluindo o fluxo de mento
 complementares que ajudam a consolidar o aprendizado.
 
 Esta página é apenas o ponto de partida da metodologia. Nas próximas páginas, cada etapa será
-detalhada com mais profundidade — siga avançando na documentação para continuar.
+detalhada com mais profundidade. **Siga avançando na documentação para continuar.**
 
 ---
 
