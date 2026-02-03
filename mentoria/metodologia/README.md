@@ -12,27 +12,43 @@
   </picture>
 </div>
 
-# Metodologia de Mentoria
+# Metodologia de Mentoria: Visão Geral
 
-Este documento descreve a metodologia de ensino para mentorias da Cumbuca Devque combina um fluxo
+Este documento descreve a metodologia de ensino para mentorias da Cumbuca Dev que combina um fluxo
 estruturado de aprendizado com apoios complementares. A metodologia é projetada para promover o
 desenvolvimento contínuo e garantir que a pessoa mentorada avance com confiança e autonomia em sua
 jornada. O processo inclui um acompanhamento regular, uma curadoria de conteúdo, práticas guiadas,
 assistidas e independentes, além de contar com a construção de uma rede de apoio essencial para o 
 crescimento pessoal e profissional.
 
-- [Metodologia de Mentoria](#metodologia-de-mentoria)
-  - [Fluxo de Mentoria](#fluxo-de-mentoria)
-    - [1. Reuniões de Acompanhamento](#1-reuniões-de-acompanhamento)
-    - [2. Teoria](#2-teoria)
-      - [2.1 Curadoria de Conteúdo](#21-curadoria-de-conteúdo)
-      - [2.2 Exploração do Conteúdo](#22-exploração-do-conteúdo)
-    - [3. Prática](#3-prática)
-      - [3.1 Prática Guiada](#31-prática-guiada)
-      - [3.2 Prática Assistida](#32-prática-assistida)
-      - [3.3 Prática Independente](#33-prática-independente)
-  - [Apoios Complementares](#apoios-complementares)
-    - [Expansão da Rede de Apoio](#expansão-da-rede-de-apoio)
+## Estrutura da Metodologia
+
+A apresentação da metodologia é organizada nas seguintes páginas. Ao final de cada página, utilize
+o link “Avançar” para seguir na navegação.
+
+- [Reuniões de Acompanhamento](/mentoria/metodologia/reunioes_de_acompanhamento.md)
+- [Curadoria de Conteúdo](/mentoria/metodologia/curadoria.md)
+- [Exploração do Conteúdo](/mentoria/metodologia/exploracao_do_conteudo.md)
+- [Prática Guiada](/mentoria/metodologia/pratica_guiada.md)
+- [Prática Assistida](/mentoria/metodologia/pratica_assistida.md)
+- [Prática Independente](/mentoria/metodologia/pratica_independente.md)
+- [Expansão da Rede de Apoio](/mentoria/metodologia/expansao_da_rede_de_apoio.md)
+
+## Visão Geral
+
+### Sumário da Página
+
+- [Fluxo de Mentoria](#fluxo-de-mentoria)
+  - [1. Reuniões de Acompanhamento](#1-reuniões-de-acompanhamento)
+  - [2. Teoria](#2-teoria)
+    - [2.1 Curadoria de Conteúdo](#21-curadoria-de-conteúdo)
+    - [2.2 Exploração do Conteúdo](#22-exploração-do-conteúdo)
+  - [3. Prática](#3-prática)
+    - [3.1 Prática Guiada](#31-prática-guiada)
+    - [3.2 Prática Assistida](#32-prática-assistida)
+    - [3.3 Prática Independente](#33-prática-independente)
+- [Apoios Complementares](#apoios-complementares)
+  - [Expansão da Rede de Apoio](#expansão-da-rede-de-apoio)
 
 ## Fluxo de Mentoria
 
@@ -165,9 +181,6 @@ pessoal e profissional.
 
 A seguir, vamos detalhar como o processo se organiza, incluindo o fluxo de mentoria e os apoios
 complementares que ajudam a consolidar o aprendizado.
-
-Esta página é apenas o ponto de partida da metodologia. Nas próximas páginas, cada etapa será
-detalhada com mais profundidade. **Siga avançando na documentação para continuar.**
 
 ---
 
