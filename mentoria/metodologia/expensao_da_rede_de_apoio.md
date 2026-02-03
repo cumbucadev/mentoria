@@ -48,6 +48,12 @@ apoio da pessoa mentorada.
 
 ---
 
+Com isso, encerramos a apresentação da metodologia de mentoria da Cumbuca Dev. A partir daqui,
+a pessoa mentora e a pessoa mentorada já têm uma visão completa do processo e dos apoios que
+sustentam a jornada de aprendizado.
+
+---
+
 **Ações:**
 
 - [< Voltar para Prática Independente](/mentoria/metodologia/pratica_independente.md)
