@@ -18,7 +18,8 @@ Este documento descreve a metodologia de ensino para mentorias da Cumbuca Devque
 estruturado de aprendizado com apoios complementares. A metodologia é projetada para promover o
 desenvolvimento contínuo e garantir que a pessoa mentorada avance com confiança e autonomia em sua
 jornada. O processo inclui um acompanhamento regular, uma curadoria de conteúdo, práticas guiadas,
-assistidas e independentes, além de contar com a construção de uma rede de apoio essencial para o crescimento pessoal e profissional.
+assistidas e independentes, além de contar com a construção de uma rede de apoio essencial para o 
+crescimento pessoal e profissional.
 
 - [Metodologia de Mentoria](#metodologia-de-mentoria)
   - [Fluxo de Mentoria](#fluxo-de-mentoria)
@@ -164,6 +165,9 @@ pessoal e profissional.
 
 A seguir, vamos detalhar como o processo se organiza, incluindo o fluxo de mentoria e os apoios
 complementares que ajudam a consolidar o aprendizado.
+
+Esta página é apenas o ponto de partida da metodologia. Nas próximas páginas, cada etapa será
+detalhada com mais profundidade — siga avançando na documentação para continuar.
 
 ---
 
